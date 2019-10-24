@@ -23,7 +23,7 @@ L’écran Résumé du débogueur Adobe Experience Cloud s’affiche.
 
 Cet écran affiche une miniature de la page, ainsi que l’URL et le titre de la page. Il affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des informations, notamment la bibliothèque et la version de la solution (par exemple, "AppMeasurement v2.9") et les identifiants de compte (tels que l’identifiant de la suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
-Les numéros en bleu en regard des onglets dans la partie supérieure de la fenêtre indiquent le nombre d'appels serveur qui ont été effectués. Vous pouvez les réinitialiser à zéro en cliquant sur **[!UICONTROL Effacer toutes les requêtes]** dans l’onglet correspondant.
+Les numéros en bleu en regard des onglets dans la partie supérieure de la fenêtre indiquent le nombre d'appels serveur qui ont été effectués. Vous pouvez les réinitialiser sur zéro en cliquant **[!UICONTROL Clear All Requests]** dans l’onglet correspondant.
 
 Par exemple, l’illustration suivante présente des informations sur Adobe Target. Pour exposer les détails de l’activité illustrés ci-dessous sans authentification, vous devez mettre en oeuvre l’écouteur d’événement de débogage dans votre code ou gestionnaire de balises et activer les jetons [de](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) réponse nécessaires dans l’interface utilisateur de Target.
 
@@ -31,7 +31,7 @@ Par exemple, l’illustration suivante présente des informations sur Adobe Targ
 
 ## Exécution d’un audit dans l’auditeur {#section-82bc57440406461ebf27a16855b71655}
 
-Vous pouvez utiliser Adobe Audit pour exécuter une série d’audits sur votre page. Pour exécuter le vérificateur, cliquez sur **[!UICONTROL Vérificateur]** dans le menu supérieur, puis cliquez sur **[!UICONTROL Vérifier la page maintenant]**. Pour ouvrir Adobe Audit, cliquez sur **[!UICONTROL Exécuter l’audit multi-page maintenant]**.
+Vous pouvez utiliser Adobe Audit pour exécuter une série d’audits sur votre page. Pour exécuter le vérificateur, cliquez sur **[!UICONTROL Auditor]** dans le menu supérieur, puis cliquez sur **[!UICONTROL Audit Page Now]**. Pour ouvrir Adobe auditeur, cliquez sur **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Informations affichées dans le débogueur {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -56,7 +56,7 @@ Le débogueur affiche les informations suivantes pour chaque solution :
  </tbody> 
 </table>
 
-**Adobe Analytics** 
+**Adobe Analytics**
 
 <table id="table_BEB9CC58E59D4D86BC895A8A51D84A2C"> 
  <tbody> 
