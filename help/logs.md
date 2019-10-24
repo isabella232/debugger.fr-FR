@@ -22,4 +22,4 @@ L’écran Journaux fournit des informations spécifiques aux implémentations d
 
 ![](assets/logs.jpg)
 
-Certains éléments du journal de la gestion dynamique des balises incluent une option Afficher le code dans leur message. Cliquez sur **[!UICONTROL Afficher le code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
+Certains éléments du journal de la gestion dynamique des balises incluent une option Afficher le code dans leur message. Cliquez sur **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
