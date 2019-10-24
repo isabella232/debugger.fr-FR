@@ -17,7 +17,7 @@ Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la
 
 ![](assets/tools.jpg)
 
-Vous pouvez insérer dynamiquement Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’icône Code **[!UICONTROL incorporé]** , entrez votre code [](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) incorporé, puis cliquez sur **[!UICONTROL Enregistrer]**.
+Vous pouvez insérer dynamiquement Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’ **[!UICONTROL Embed Code]** icône, entrez votre code [incorporé](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) , puis cliquez sur **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
