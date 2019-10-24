@@ -41,7 +41,7 @@ Cet écran affiche toutes les requêtes depuis l’ouverture du débogueur ou le
 
 **Comptes liés (hérités)**
 
-Cliquez sur **[!UICONTROL Lier le compte]**, puis entrez les informations demandées pour lier un compte Analytics au débogueur.
+Cliquez sur **[!UICONTROL Link Account]**, puis entrez les informations demandées pour lier un compte Analytics au débogueur.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Pour la plupart des implémentations d’Analytics, les informations des règles
 
 Utilisez l’onglet Target pour afficher les requêtes [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) ou les détails de réponse de suivi de [mbox](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) .
 
-Cliquez sur **[!UICONTROL Demandes]**, puis développez l’environnement pour afficher des informations sur Target.
+Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur Target.
 
 ![](assets/target-requests.jpg)
 
-Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
 
 Vous pouvez également utiliser le filtre Target pour [activer le suivi de la mbox à des fins](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)de débogage Target.
 
@@ -97,7 +97,7 @@ Utilisez l’onglet [Audience Manager](https://experiencecloud.adobe.com/resourc
 
 ![](assets/audience-manager.jpg)
 
-Cliquez sur **[!UICONTROL Effacer tous les événements]** pour réinitialiser les informations affichées. Les nouveaux événements s’affichent au fur et à mesure.
+Cliquez sur **[!UICONTROL Clear All Events]** pour réinitialiser les informations affichées. Les nouveaux événements s’affichent au fur et à mesure.
 
 **Synchronisation des identifiants**
 
@@ -111,14 +111,14 @@ Pour plus d’informations, voir Synchronisation des [identifiants pour les tran
 
 Utilisez l’onglet Advertising Cloud pour afficher les requêtes Advertising Cloud.
 
-Cliquez sur **[!UICONTROL Demandes]**, puis développez l’environnement pour afficher des informations sur Advertising Cloud.
+Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur Advertising Cloud.
 
-Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
 
 ## Service Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilisez l’onglet Service d’ID d’expérience pour afficher les demandes du service [d’ID d’](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) expérience Cloud.
 
-Cliquez sur **[!UICONTROL Demandes]**, puis développez l’environnement pour afficher des informations sur le service d’ID Experience Cloud.
+Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur le service d’ID Experience Cloud.
 
-Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
