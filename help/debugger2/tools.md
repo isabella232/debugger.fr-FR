@@ -1,11 +1,11 @@
 ---
-description: valeur nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
 seo-description: 'null'
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
@@ -17,7 +17,7 @@ Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la
 
 ![](assets/tools.jpg)
 
-Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://experiencecloud.adobe.com/resources/help/fr_FR/dtm/deployment.html) et cliquez sur **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
