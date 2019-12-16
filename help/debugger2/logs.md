@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
 
 ---
@@ -17,21 +17,21 @@ L’écran Journaux fournit des informations spécifiques aux mises en œuvre de
 
 ![](assets/logs.jpg)
 
-L’écran Journaux affiche les informations en quatre colonnes :
+L’écran Journaux affiche les informations en quatre colonnes :
 
-**[!UICONTROL Solutions]** : Affiche les icônes de la solution Experience Cloud affectée par l’élément enregistré. Passez la souris sur l’icône pour obtenir une description de texte.
+**[!UICONTROL Solutions] :** affiche les icônes de la solution Experience Cloud affectée par l’élément journalisé. Placez le pointeur sur l’icône pour obtenir une description textuelle.
 
-**[!UICONTROL Occurred at]** : Indique le moment où la publication enregistrée s’est produite pendant la session.
+**[!UICONTROL Occurred at] :** indique le moment où le problème journalisé s’est produit pendant la session.
 
-**[!UICONTROL Log level]** : Affiche la gravité du problème. La gravité est l’un des niveaux suivants :
+**[!UICONTROL Log level] :** affiche la gravité du problème. La gravité est l’un des niveaux suivants :
 
 * Journal
 * Infos
 * Avertissements
 * Erreurs
 
-**[!UICONTROL Log message]** : Décrit le problème.
+**[!UICONTROL Log message] :** décrit le problème.
 
-Certains messages du journal incluent une option Afficher le code. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Certains messages du journal disposent d’une option Afficher le code. Cliquez sur **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
 
 Pour effacer le journal, cliquez sur **[!UICONTROL Remove Logs]**.
