@@ -1,23 +1,23 @@
 ---
 description: Debugger examine vos pages web et vous aide à résoudre les problèmes liés à la mise en œuvre des solutions Experience Cloud.
 keywords: debugger;experience cloud debugger extension;chrome;extension
-seo-description: 'Documentation technique pour le débogueur Adobe Experience Cloud 2.0 Chrome et l’extension Firefox : examinez vos pages Web et comprenez les problèmes liés aux implémentations de vos solutions Experience Cloud.'
-seo-title: Adobe Experience Cloud Debugger 2.0 Chrome et Firefox Extension
-title: Adobe Experience Cloud Debugger Extension 2.0
+seo-description: Documentation technique pour l’extension Adobe Experience Cloud Debugger 2.0 pour Chrome et Firefox - examiner vos pages web et comprendre les problèmes liés aux mises en œuvre de solutions Experience Cloud.
+seo-title: Extension Adobe Experience Cloud Debugger 2.0 pour Chrome et Firefox
+title: Extension Adobe Experience Cloud Debugger 2.0
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
 
 
-# Adobe Experience Cloud Debugger 2.0 Extension{#adobe-experience-cloud-debugger-extension}
+# Extension Adobe Experience Cloud Debugger 2.0 {#adobe-experience-cloud-debugger-extension}
 
-The [Adobe Experience Cloud Debugger 2.0 extension for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+L’extension [Adobe Experience Cloud Debugger 2.0 pour Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) et [Firefox](https://addons.mozilla.org/fr/firefox/addon/adobe-experience-platform-dbg/) examine vos pages web et vous aide à résoudre les problèmes liés à la mise en œuvre des solutions Experience Cloud.
 
-Utilisez l’extension Adobe Experience Cloud Debugger 2.0 avec les autres solutions d’activation Adobe pour un flux de travaux du type suivant :
+Utilisez l’extension Adobe Experience Cloud Debugger 2.0 avec les autres solutions d’Adobe Activation pour un flux de travail tel que celui-ci :
 
-1. Utilisez [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) ou [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) sur vos pages.
+1. Utilisez [Launch](https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html) ou [DTM](https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/fr-FR/core-services/interface/experience-cloud.html) sur vos pages.
 
 1. Utilisez [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) pour tester vos mises en œuvre.
 1. Utilisez l’extension Adobe Experience Cloud Debugger pour déboguer les problèmes détectés par Auditor ou pour consulter d’autres informations sur vos mises en œuvre.
