@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Notes de mise à jour
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
@@ -219,7 +219,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mise à jour du lien d’aide dans le pied de page </p> </td> 
-   <td colname="col2"> <p>Mise à jour du lien d’aide dans le pied de page <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external">https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>Mise à jour du lien d’aide dans le pied de page <a href="https://docs.adobe.com/content/help/fr-FR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/fr-FR/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
