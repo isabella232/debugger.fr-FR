@@ -1,11 +1,11 @@
 ---
-description: valeur nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
 seo-description: 'null'
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -17,7 +17,7 @@ Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la
 
 ![](assets/tools.jpg)
 
-Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://experiencecloud.adobe.com/resources/help/fr_FR/dtm/deployment.html) et cliquez sur **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -70,7 +70,7 @@ Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe q
   </tr> 
   <tr> 
    <td colname="col1"> <p>Désactiver Target </p> </td> 
-   <td colname="col2"> <p>Cet outil désactive toutes les requêtes Target en ajoutant un cookie appelé <span class="codeph"> mboxDisable=true</span> à votre navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph">?mboxDisable=true</span> à votre URL pour désactiver les mbox. </p> </td> 
+   <td colname="col2"> <p>Cet outil désactive toutes les requêtes Target en ajoutant un cookie appelé <span class="codeph"> mboxDisable=true</span> à votre navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDisable=true</span> à votre URL pour désactiver les mbox. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mise en surbrillance de mbox </p> </td> 
