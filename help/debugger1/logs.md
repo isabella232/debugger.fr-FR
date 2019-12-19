@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ L’écran Journaux fournit des informations spécifiques aux mises en œuvre de
 
 ![](assets/logs.jpg)
 
-Certains éléments du journal de la gestion dynamique des balises incluent une option Afficher le code dans leur message. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Certains éléments du journal de la gestion dynamique des balises incluent une option Afficher le code dans leur message. Cliquez sur **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
