@@ -5,20 +5,24 @@ seo-description: 'null'
 seo-title: Installer Experience Cloud Debugger
 title: Installer Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Installer Experience Cloud Debugger {#install-experience-cloud-debugger}
+# Installation du débogueur Adobe Experience Platform{#install-experience-platform-debugger}
 
-Téléchargez et installez l’extension Adobe Experience Cloud Debugger.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+
+Téléchargez et installez le débogueur Adobe Experience Platform.
 
 * **Chrome** : depuis la [page de l’extension pour Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox** : depuis la [page des modules complémentaires Firefox](https://addons.mozilla.org/fr/firefox/addon/adobe-experience-platform-dbg/)
+* **Firefox** : depuis la [page des modules complémentaires Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
 
-Une fois l’extension installée, une icône s’ajoute à la barre d’extension :
+Une fois que vous avez installé l’extension Chrome ou le module complémentaire Firefox, une icône est ajoutée à la barre d’extension :
 
 ![](assets/start-icon.jpg)
 
@@ -26,10 +30,3 @@ Une fois l’extension installée, une icône s’ajoute à la barre d’extensi
 
 Cliquez sur l’icône pour démarrer Debugger.
 
-Une fois Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
-
-Lorsque vous modifiez une page de votre site, la fenêtre du débogueur se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller le débogueur sur une page, cliquez sur **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Débogueur.
-
-![](assets/lock.jpg)
-
-Cela s’avère utile si vous lisez de la documentation ou que vous consultez des informations sur une autre page lors du débogage de votre page.
