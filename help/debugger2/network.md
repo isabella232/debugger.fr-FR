@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: Informations réseau
 title: Informations réseau
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Informations réseau {#network-information}
+# Réseau{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
 
@@ -25,7 +29,7 @@ Cet écran est utile pour comparer des paires clé-valeur entre les accès. Vous
 >
 >Actuellement, tous les paramètres transmis dans les appels de solution (par exemple, les variables contextuelles Analytics, les paramètres personnalisés Target ou les ID de client du service Experience Cloud ID) ne sont pas visibles dans l’écran Réseau.
 
-Pour filtrer les informations par solution, sélectionnez la solution que vous souhaitez afficher depuis la liste dans le volet de navigation de gauche. L’exemple suivant est filtré pour n’afficher qu’Analytics :
+Pour modifier les informations par solution, sélectionnez la solution que vous souhaitez  dans le  dans le volet de navigation de gauche. L’exemple suivant est filtré pour n’afficher qu’Analytics :
 
 ![](assets/network-analytics.jpg)
 
