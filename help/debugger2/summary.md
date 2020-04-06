@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Écran récapitulatif {#summary-screen}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Pour exécuter l’Adobe Experience Platform Debugger, cliquez sur l’icône dans la barre de votre navigateur, puis ouvrez la page à examiner dans le navigateur.
 
