@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Journaux {#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 L’écran Journaux fournit des informations spécifiques aux implémentations de DTM, de Launch et de SDK Web AEP. Il n’est pas nécessaire d’activer l’outil de débogage de console pour DTM en vue d’afficher ces informations. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
 
