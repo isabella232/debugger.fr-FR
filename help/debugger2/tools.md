@@ -1,11 +1,11 @@
 ---
-description: valeur nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
 seo-description: 'null'
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -15,13 +15,13 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 > [!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+> Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la solution installée. Par exemple, vous pouvez activer les instructions de débogage de console de Target ou utiliser la bibliothèque d’évaluation de la gestion dynamique des balises. Ces outils ne sont disponibles que si Target et DTM sont installés sur votre page.
 
 ![](assets/tools.jpg)
 
-Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) et cliquez sur **[!UICONTROL Save]**.
+Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://experiencecloud.adobe.com/resources/help/fr_FR/dtm/deployment.html) et cliquez sur **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -85,4 +85,4 @@ Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe q
 
 La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=fre_fr)
