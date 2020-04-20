@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -85,4 +85,4 @@ Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe q
 
 La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=fre_fr)
