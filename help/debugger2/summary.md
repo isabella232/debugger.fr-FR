@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -49,7 +49,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de la page </p> </td> 
-   <td colname="col2"> <p>Variable <a href="https://experiencecloud.adobe.com/resources/help/fr_FR/sc/implement/pageName.html" format="html" scope="external">pageName</a> envoyée à Analytics qui contient un nom convivial du site. </p> </td> 
+   <td colname="col2"> <p>Variable <a href="https://docs.adobe.com/content/help/fr-FR/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a> envoyée à Analytics qui contient un nom convivial du site. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
@@ -156,7 +156,7 @@ Debugger affiche les informations suivantes pour chaque solution :
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Code client </p> </td> 
-   <td colname="col2"> <p>Votre <a href="https://docs.adobe.com/content/help/fr-FR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> code client </a>Target.  </p> </td> 
+   <td colname="col2"> <p>Votre <a href="https://docs.adobe.com/content/help/fr-FR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> code client </a>Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
