@@ -1,9 +1,9 @@
 ---
-description: valeur nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
 seo-description: valeur nulle
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
