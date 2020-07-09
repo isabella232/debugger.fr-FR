@@ -6,9 +6,9 @@ seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '940'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ L’écran récapitulatif d’Adobe Experience Platform Debugger s’affiche.
 
 Cet écran affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
-## Informations affichées dans Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Informations affichées dans Debugger
 
 Debugger affiche les informations suivantes pour chaque solution :
 
@@ -86,19 +86,19 @@ Debugger affiche les informations suivantes pour chaque solution :
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nom </p> </td> 
-   <td colname="col2"> <p>Nom de la <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> propriété </a>Adobe Launch. </p> </td> 
+   <td colname="col2"> <p>Nom de la <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> propriété </a>Adobe Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a>. </p> </td> 
+   <td colname="col2"> <p>Version de Turbine</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date de version </p> </td> 
-   <td colname="col2"> <p>Date de version de la <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> bibliothèque</a> Launch. </p> </td> 
+   <td colname="col2"> <p>Date de version de la <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/libraries.html" format="https" scope="external"> bibliothèque</a> Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environnement </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external">Environnement</a> utilisé par la bibliothèque Launch. </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/environments.html" format="https" scope="external">Environnement</a> utilisé par la bibliothèque Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensions </p> </td> 
