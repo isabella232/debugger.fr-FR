@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe q
   </tr> 
   <tr> 
    <td colname="col1"> <p> Activer mboxTraces </p> </td> 
-   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mboxTrace</span> de Debugger. </p> <p> Vous devez être connecté à l’Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
+   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mboxTrace</span> de Debugger. </p> <p> Vous devez être connecté à Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Désactiver Target </p> </td> 
@@ -88,4 +88,4 @@ Vous pouvez effectuer une insertion dynamique de Launch ou DTM sur n’importe q
 
 La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=fre_fr)
