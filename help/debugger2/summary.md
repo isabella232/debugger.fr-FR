@@ -1,13 +1,13 @@
 ---
-description: valeur nulle
+description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 seo-description: 'null'
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '940'
 ht-degree: 100%
 
@@ -44,11 +44,11 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version d’<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external">AppMeasurement</a> définie pour la page. </p> </td> 
+   <td colname="col2"> <p>Version d’<a href="https://docs.adobe.com/content/help/fr-FR/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external">AppMeasurement</a> définie pour la page. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version du visiteur </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque <a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de la page </p> </td> 
@@ -148,7 +148,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque<a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ Debugger affiche les informations suivantes pour chaque solution :
    <td colname="col2"> <p>ID de l’expérience Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Offre  Nom</p> </td> 
+   <td colname="col1"> <p>Offre   Nom</p> </td> 
    <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> l’offre</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
