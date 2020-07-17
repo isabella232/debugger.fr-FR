@@ -5,9 +5,9 @@ seo-description: Documentation technique pour l’extension Adobe Experience Clo
 seo-title: Extension Adobe Experience Platform Debugger pour Chrome et Firefox
 title: Extension Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Utilisez l’Adobe Experience Platform Debugger avec les autres solutions d�
 
 1. Utilisez [Launch](https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html) ou [DTM](https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/fr-FR/core-services/interface/experience-cloud.html) sur vos pages.
 
-1. Utilisez [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) pour tester vos mises en œuvre.
+1. Utilisez [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html) pour tester vos mises en œuvre.
 1. Utilisez l’Adobe Experience Platform Debugger pour déboguer les problèmes détectés par Auditor ou pour consulter d’autres informations sur vos mises en œuvre.
 
 Les étapes ci-dessus ne sont pas nécessairement effectuées dans cet ordre, mais il s’agit d’un processus courant.
@@ -42,4 +42,4 @@ Utilisez Debugger pour recueillir des informations qui vous aident à comprendre
 
 ## Tutoriel vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=fre_fr)
