@@ -1,12 +1,15 @@
 ---
-description: valeur nulle
+description: Notes de mise à jour pour l’Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: 'null'
+seo-description: Notes de mise à jour pour l’Experience Cloud Debugger
 seo-title: Notes de mise à jour
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '699'
+ht-degree: 98%
 
 ---
 
@@ -22,7 +25,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 <table id="table_7EFCAF456B14404FAF3715FC56519AAF"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -41,7 +44,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 <table id="table_96AEBFF29F3D40CAA859133B22756B0C"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -71,7 +74,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 <table id="table_66E255E9BA8845CAA92779F580D14EB4"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -102,7 +105,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 <table id="table_9AC6DE90AF4345DFA707BFBA1E58C328"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -149,7 +152,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
 <table id="table_E847A9D6711F4CF59E98806FA7AF8379"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -186,7 +189,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
 <table id="table_8FDED5A7B7F7430A88AE441336F9C714"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
@@ -236,7 +239,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
 <table id="table_8CF872DC245A46C38FE21490C842D47A"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Fonction </th> 
+   <th colname="col1" class="entry"> Fonctionnalité </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
