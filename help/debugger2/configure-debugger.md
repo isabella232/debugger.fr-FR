@@ -1,11 +1,14 @@
 ---
-description: valeur nulle
+description: Configuration de l’Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: valeur nulle
+seo-description: Configuration de l’Experience Cloud Debugger
 seo-title: Configurer Experience Cloud Debugger
 title: Configurer Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 92%
 
 ---
 
@@ -22,7 +25,7 @@ Vous pouvez configurer certains aspects de l’apparence et du fonctionnement de
 
 ## Mode clair ou foncé
 
-Une fois Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
+Une fois Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **** et en sélectionnant ** Mode sombre ** (par défaut) ou ** Mode clair **.
 
 ## Réinitialiser le
 
