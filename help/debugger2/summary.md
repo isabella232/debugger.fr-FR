@@ -1,15 +1,15 @@
 ---
-description: Écran de résumé de l'Experience Cloud Debugger
+description: Écran récapitulatif du Débogueur Experience Cloud
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Écran de résumé de l'Experience Cloud Debugger
+seo-description: Écran récapitulatif du Débogueur Experience Cloud
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '948'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version du visiteur </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque <a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque <a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de la page </p> </td> 
@@ -90,7 +90,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de Turbine</a> </p> </td> 
+   <td colname="col2"> <p>Version de Turbine.</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date de version </p> </td> 
@@ -143,12 +143,12 @@ Debugger affiche les informations suivantes pour chaque solution :
 <table id="table_274CFCEFA8F34D16BB546B4669EC0209"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Experience Cloud Org ID (ID d’organisation d’Experience Cloud) </p> </td> 
+   <td colname="col1"> <p>ID d’organisation d’Experience Cloud </p> </td> 
    <td colname="col2"> <p>Votre <a href="https://experiencecloud.adobe.com/resources/help/fr_FR/mcvid/" format="https" scope="external"> ID d’organisation</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque<a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque<a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -167,7 +167,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom global de la demande </p> </td> 
-   <td colname="col2"> <p>La<a href="https://docs.adobe.com/content/help/fr-FR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> désigne l’appel de serveur unique effectué en haut de chaque page web dans votre mise en œuvre Target. </p> </td> 
+   <td colname="col2"> <p>La<a href="https://docs.adobe.com/help/fr-FR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> mbox globale</a> désigne l’appel de serveur unique effectué en haut de chaque page web dans votre mise en œuvre Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Événement de chargement de page </p> </td> 
@@ -194,7 +194,7 @@ Debugger affiche les informations suivantes pour chaque solution :
    <td colname="col2"> <p>ID de l’expérience Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Offre   Nom</p> </td> 
+   <td colname="col1"> <p>Offre    Nom</p> </td> 
    <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> l’offre</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
