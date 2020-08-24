@@ -1,15 +1,15 @@
 ---
-description: Exécution de l’Experience Cloud Debugger
+description: Exécution du Débogueur Experience Cloud
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Exécution de l’Experience Cloud Debugger
+seo-description: Exécution du Débogueur Experience Cloud
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version du visiteur </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque <a href="https://docs.adobe.com/content/help/fr-FR/analytics/technotes/visitor-identification.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque <a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">d’identifiants visiteur</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de la page </p> </td> 
@@ -138,11 +138,11 @@ Debugger affiche les informations suivantes pour chaque solution :
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nom de la bibliothèque </p> </td> 
-   <td colname="col2"> <p>Nom de la<a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/library-management.html" format="html" scope="external"> bibliothèque</a> Adobe DTM </p> </td> 
+   <td colname="col2"> <p>Nom de la<a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/library-management.html" format="html" scope="external"> bibliothèque</a> Adobe DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de Turbine </p> </td> 
+   <td colname="col2"> <p>Version de Turbine. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date de version </p> </td> 
@@ -150,7 +150,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environnement </p> </td> 
-   <td colname="col2"> <p>Environnement utilisé par la bibliothèque DTM </p> </td> 
+   <td colname="col2"> <p>Environnement utilisé par la bibliothèque DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Répertoire de script </p> </td> 
@@ -169,7 +169,7 @@ Debugger affiche les informations suivantes pour chaque solution :
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque<a href="https://docs.adobe.com/content/help/fr-FR/analytics/technotes/visitor-identification.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque<a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/metrics/unique-visitors.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
