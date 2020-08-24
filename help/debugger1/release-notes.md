@@ -1,15 +1,15 @@
 ---
-description: Notes de mise à jour pour l’Experience Cloud Debugger
+description: Notes de mise à jour du Débogueur Experience Cloud
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: Notes de mise à jour pour l’Experience Cloud Debugger
+seo-description: Notes de mise à jour du Débogueur Experience Cloud
 seo-title: Notes de mise à jour
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Tests d’Auditor </p> </td> 
-   <td colname="col2"> <p> Ajout de <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">tests d’Auditor</a> à Debugger </p> </td> 
+   <td colname="col2"> <p> Ajout de <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">tests d’Auditor</a> à Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
@@ -64,7 +64,7 @@ ht-degree: 98%
 
 * Correction d’un problème en raison duquel le pied de page masquait du contenu au bas de la page.
 
-* Mise à jour du pied de page de Debugger
+* Mise à jour du pied de page de Debugger.
 * Correction d’un problème en raison duquel une terminologie obsolète était utilisée pour Target.
 
 ## Version 0.0.809 28 février 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -123,7 +123,7 @@ ht-degree: 98%
    <td colname="col2"> <p> 
      <ul id="ul_5FCD61733462495D8FB421DE7C813001"> 
       <li id="li_2E8E9AAE5D0D41DC8C42592AFDFA3377">Ajout de délais de performances pour les requêtes Target. </li> 
-      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Capture d’adobe.target.trackEvent </li> 
+      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Capture d’adobe.target.trackEvent. </li> 
      </ul> </p> </td> 
   </tr> 
  </tbody> 
@@ -159,7 +159,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Lien Auditor sur l’onglet Outils </p> </td> 
-   <td colname="col2"> <p>Ajout d’un lien vers Auditor à partir de Debugger </p> </td> 
+   <td colname="col2"> <p>Ajout d’un lien vers Auditor à partir de Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Onglets réduits </p> </td> 
@@ -167,14 +167,14 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cliquez pour afficher </p> </td> 
-   <td colname="col2"> <p> Ajout d’une fonctionnalité de clic pour afficher à tous les onglets </p> </td> 
+   <td colname="col2"> <p> Ajout d’une fonctionnalité de clic pour afficher à tous les onglets. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Améliorations {#section-0e7090e3e6a645f085d4553b983ecff8}
 
-* Nom de Media Optimizer remplacé par Advertising Cloud
+* Nom de Media Optimizer remplacé par Advertising Cloud.
 * Suppression de solutions de l’onglet Réseau si elles sont introuvables.
 
 ## Corrections de bogues {#section-7c0e4cc4b00a428489bed4a0a27c9501}
@@ -214,10 +214,10 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
    <td colname="col1"> <p>Onglet Journaux de nettoyage </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
-      <li id="li_2696D26320F54A089D3CC99962EC9670">Masquer les solutions dans le filtre de solutions si aucun élément de ligne correspondant à cette solution n’est trouvé dans les journaux </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Masquer le filtre de niveau si aucun appel DTM n’est trouvé, car il s’applique uniquement à la gestion dynamique des balises </li> 
-      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Modifier les icônes affichées dans la colonne Niveau afin qu’elles n’apparaissent pas comme cliquables lorsque rien ne se passe en cliquant dessus </li> 
-      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Normaliser le formatage de « Afficher le code » sur les éléments de ligne de la gestion dynamique des balises </li> 
+      <li id="li_2696D26320F54A089D3CC99962EC9670">Masquer les solutions dans le filtre de solutions si aucun élément de ligne correspondant à cette solution n’est trouvé dans les journaux. </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Masquer le filtre de niveau si aucun appel DTM n’est trouvé, car il s’applique uniquement à la gestion dynamique des balises. </li> 
+      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Modifier les icônes affichées dans la colonne Niveau afin qu’elles n’apparaissent pas comme cliquables lorsque rien ne se passe en cliquant dessus. </li> 
+      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Normaliser le formatage de « Afficher le code » sur les éléments de ligne de la gestion dynamique des balises. </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -245,7 +245,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Bascules  de mbox </p> </td> 
+   <td colname="col1"> <p>Bascules   de mbox </p> </td> 
    <td colname="col2"> <p>Les bascules de mbox ont été ajoutées à l’onglet Target. </p> </td> 
   </tr> 
   <tr> 
