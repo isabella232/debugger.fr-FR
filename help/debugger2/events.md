@@ -1,14 +1,14 @@
 ---
-description: Écran Événements Experience Cloud Debugger
+description: Écran Événements du Débogueur Experience Cloud
 keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Écran Événements Experience Cloud Debugger
+seo-description: Écran Événements du Débogueur Experience Cloud
 seo-title: Événements
 title: Événements
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
