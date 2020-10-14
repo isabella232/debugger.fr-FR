@@ -1,15 +1,15 @@
 ---
-description: Écran Journaux du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Écran Journaux du Débogueur Experience Cloud
+description: Écran Journaux du débogueur Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Écran Journaux du débogueur Experience Platform
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 L’écran Journaux fournit des informations spécifiques aux implémentations de DTM, de Launch et de SDK Web AEP. Il n’est pas nécessaire d’activer l’outil de débogage de console pour DTM en vue d’afficher ces informations. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
 
