@@ -1,15 +1,15 @@
 ---
-description: Écran récapitulatif du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Écran récapitulatif du Débogueur Experience Cloud
+description: Écran de résumé du débogueur Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Écran de résumé du débogueur Experience Platform
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '948'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Pour exécuter l’Adobe Experience Platform Debugger, cliquez sur l’icône dans la barre de votre navigateur, puis ouvrez la page à examiner dans le navigateur.
 
@@ -30,9 +30,9 @@ L’écran récapitulatif d’Adobe Experience Platform Debugger s’affiche.
 
 Cet écran affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
-## Informations affichées dans Debugger
+## Informations affichées dans le débogueur Experience Platform
 
-Debugger affiche les informations suivantes pour chaque solution :
+Le débogueur Experience Platform affiche les informations suivantes pour chaque solution :
 
 **Adobe Analytics**
 
