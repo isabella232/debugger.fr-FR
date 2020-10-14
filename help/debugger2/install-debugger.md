@@ -1,15 +1,15 @@
 ---
-description: Installation du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: Installation du Débogueur Experience Cloud
-seo-title: Installer Experience Cloud Debugger
-title: Installer Experience Cloud Debugger
+description: Installation du débogueur Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+seo-description: Installation du débogueur Experience Platform
+seo-title: Installer le débogueur Experience Platform
+title: Installer le débogueur Experience Platform
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 63%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Téléchargez et installez l’Adobe Experience Platform Debugger.
 
@@ -29,5 +29,5 @@ Une fois l’extension Chrome ou Firefox installée, une icône s’ajoute à la
 
 ![](assets/start-icon.jpg)
 
-Cliquez sur l’icône pour démarrer Debugger.
+Cliquez sur l&#39;icône pour début Experience Platform Debugger.
 
