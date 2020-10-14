@@ -1,14 +1,14 @@
 ---
-description: Écran Événements du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Écran Événements du Débogueur Experience Cloud
+description: Écran Événements du débogueur Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Écran Événements du débogueur Experience Platform
 seo-title: Événements
 title: Événements
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 L’écran Événements fournit une vue graphique des événements qui se produisent, avec un affichage chronologique.
 
 ![](assets/events.jpg)
 
-Pour chaque événement, l’icône correspondant à la solution Experience Cloud concernée apparaît sur la chronologie. Les icônes montrent également les modifications apportées à la couche de données (si l’option est activée). Passez la souris sur une icône pour obtenir un résumé de l’événement. Cliquez sur l’événement pour plus d’informations. Vous pouvez cliquer en maintenant la touche Maj ou Ctrl enfoncée pour afficher plusieurs événements.
+Pour chaque événement, l’icône correspondant à la solution concernée apparaît sur la chronologie. Les icônes montrent également les modifications apportées à la couche de données (si l’option est activée). Passez la souris sur une icône pour obtenir un résumé de l’événement. Cliquez sur l’événement pour plus d’informations. Vous pouvez cliquer en maintenant la touche Maj ou Ctrl enfoncée pour afficher plusieurs événements.
 
 ![](assets/events-details.jpg)
 
