@@ -1,12 +1,15 @@
 ---
-description: Utilisation des onglets Solution dans Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Utilisation des onglets Solution dans Adobe Debugger
-seo-title: Onglets Solution dans Adobe Debugger
+description: Utilisation des onglets Solution dans Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Utilisation des onglets Solution dans Adobe Experience Platform Debugger '
+seo-title: 'Onglets de solution dans le débogueur Adobe Experience Platform '
 title: Onglets Solution
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
 
 Cliquez sur une solution pour afficher les résultats de solutions Adobe Experience Cloud spécifiques.
 
@@ -39,7 +42,7 @@ Utilisez l’onglet [Audience Manager](https://docs.adobe.com/content/help/fr-FR
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilisez la section Launch pour afficher les requêtes de lancement. Vous pouvez également cliquer sur **[!UICONTROL Configuration]** pour configurer les [codes incorporés](https://docs.adobe.com/content/help/fr-FR/launch/using/reference/upgrade/link-dtm-embed-code.html). Vous pouvez modifier, remplacer ou ajouter d’autres codes incorporés depuis Debugger. Si vous vous connectez, vous pouvez sélectionner une propriété alternative à l’aide des listes déroulantes.
+Utilisez la section Launch pour afficher les requêtes de lancement. Vous pouvez également cliquer sur **[!UICONTROL Configuration]** pour configurer les [codes incorporés](https://docs.adobe.com/content/help/fr-FR/launch/using/reference/upgrade/link-dtm-embed-code.html). Vous pouvez modifier, remplacer ou ajouter d’autres codes incorporés depuis le débogueur Experience Platform. Si vous vous connectez, vous pouvez sélectionner une propriété alternative à l’aide des listes déroulantes.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
