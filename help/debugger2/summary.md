@@ -1,15 +1,15 @@
 ---
-description: Écran de résumé du débogueur Experience Platform
+description: Écran Résumé d'Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Écran de résumé du débogueur Experience Platform
+seo-description: Écran Résumé d'Experience Platform Debugger
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '949'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
 Pour exécuter l’Adobe Experience Platform Debugger, cliquez sur l’icône dans la barre de votre navigateur, puis ouvrez la page à examiner dans le navigateur.
 
@@ -30,9 +30,9 @@ L’écran récapitulatif d’Adobe Experience Platform Debugger s’affiche.
 
 Cet écran affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
-## Informations affichées dans le débogueur Experience Platform
+## Informations affichées dans Experience Platform Debugger
 
-Le débogueur Experience Platform affiche les informations suivantes pour chaque solution :
+Experience Platform Debugger affiche les informations suivantes pour chaque solution :
 
 **Adobe Analytics**
 
@@ -44,7 +44,7 @@ Le débogueur Experience Platform affiche les informations suivantes pour chaque
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version d’<a href="https://docs.adobe.com/content/help/fr-FR/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external">AppMeasurement</a> définie pour la page. </p> </td> 
+   <td colname="col2"> <p>Version d’<a href="https://docs.adobe.com/content/help/fr-FR/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external"> AppMeasurement</a> définie pour la page. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version du visiteur </p> </td> 
@@ -98,7 +98,7 @@ Le débogueur Experience Platform affiche les informations suivantes pour chaque
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environnement </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/environments.html" format="https" scope="external">Environnement</a> utilisé par la bibliothèque Launch. </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/environments.html" format="https" scope="external"> Environnement</a> utilisé par la bibliothèque Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensions </p> </td> 
@@ -194,7 +194,7 @@ Le débogueur Experience Platform affiche les informations suivantes pour chaque
    <td colname="col2"> <p>ID de l’expérience Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Offre    Nom</p> </td> 
+   <td colname="col1"> <p>Offre     Nom</p> </td> 
    <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> l’offre</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
