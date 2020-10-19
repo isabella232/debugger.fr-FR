@@ -1,14 +1,14 @@
 ---
-description: Écran Événements du débogueur Experience Platform
+description: Écran Événements d'Experience Platform Debugger
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Écran Événements du débogueur Experience Platform
+seo-description: Écran Événements d'Experience Platform Debugger
 seo-title: Événements
 title: Événements
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
 L’écran Événements fournit une vue graphique des événements qui se produisent, avec un affichage chronologique.
 
