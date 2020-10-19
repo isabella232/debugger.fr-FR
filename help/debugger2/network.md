@@ -1,15 +1,15 @@
 ---
-description: Écran Réseau de débogueurs Experience Platform
+description: Écran Réseau d'Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: Écran Réseau de débogueurs Experience Platform
+seo-description: Écran Réseau d'Experience Platform Debugger
 seo-title: Informations réseau
 title: Informations réseau
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et la fonctionnalité peuvent changer.
+>Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
 Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
 
