@@ -5,11 +5,11 @@ seo-description: 'Utilisation des onglets Solution dans Adobe Experience Platf
 seo-title: 'Onglets Solution dans Adobe Experience Platform Debugger '
 title: Onglets Solution
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 88%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 Cliquez sur une solution pour afficher les résultats de solutions Adobe Experience Cloud spécifiques.
 
-## SDK Web AEP {#aep}
+## Adobe Experience Platform Web SDK {#aep}
 
-L’écran SDK Web AEP contient des informations sur le SDK Web d’Adobe Experience Platform. Cliquez sur **[!UICONTROL Configure]** pour activer ou désactiver la connexion à la console.
+L’écran Adobe Experience Platform Web SDK affiche des informations sur Adobe Experience Platform Web SDK. Cliquez sur **[!UICONTROL Configure]** pour activer ou désactiver la connexion à la console.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -40,9 +40,9 @@ Utilisez l’écran Target pour voir les demandes [Target](https://docs.adobe.co
 
 Utilisez l’onglet [Audience Manager](https://docs.adobe.com/content/help/fr-FR/audience-manager/user-guide/aam-home.html) pour afficher les détails des [événements](https://docs.adobe.com/content/help/fr-FR/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Cliquez sur l’organisation pour la développer et afficher les informations.
 
-## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilisez la section Launch pour afficher les requêtes de lancement. Vous pouvez également cliquer sur **[!UICONTROL Configuration]** pour configurer les [codes incorporés](https://docs.adobe.com/content/help/fr-FR/launch/using/reference/upgrade/link-dtm-embed-code.html). Vous pouvez modifier, remplacer ou ajouter d’autres codes incorporés depuis Experience Platform Debugger. Si vous vous connectez, vous pouvez sélectionner une propriété alternative à l’aide des listes déroulantes.
+Utilisez la section Adobe Experience Platform Launch pour vue les demandes de lancement de plateforme. Vous pouvez également cliquer sur **[!UICONTROL Configuration]** pour configurer les [codes incorporés](https://docs.adobe.com/content/help/fr-FR/launch/using/reference/upgrade/link-dtm-embed-code.html). Vous pouvez modifier, remplacer ou ajouter d’autres codes incorporés depuis Experience Platform Debugger. Si vous vous connectez, vous pouvez sélectionner une propriété alternative à l’aide des listes déroulantes.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
