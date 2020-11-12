@@ -4,10 +4,10 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Configuration d'Experience Platform Debugger
 seo-title: Configurer Experience Platform Debugger
 title: Configurer Experience Platform Debugger
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '172'
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Vous pouvez configurer certains aspects de l’apparence et du fonctionnement d&
 
 ## Mode clair ou foncé
 
-Une fois Experience Platform Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **[!UICONTROL Settings]** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
+Une fois  Platform Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **[!UICONTROL Settings]** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
 
 ## Réinitialiser
 
@@ -33,7 +33,7 @@ Cliquez sur **[!UICONTROL Reset all Data and Settings]** pour revenir à l’eff
 
 ## Verrouiller Experience Platform Debugger sur une page
 
-Lorsque vous modifiez une page de votre site, la fenêtre d&#39;Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller Experience Platform Debugger sur une page, cliquez sur **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Experience Platform Debugger.
+Lorsque vous modifiez une page de votre site, la fenêtre d&#39;Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller  Platform Debugger sur une page, cliquez sur **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Experience Platform Debugger.
 
 ![](assets/lock.jpg)
 
