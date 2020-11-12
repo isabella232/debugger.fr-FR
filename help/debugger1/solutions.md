@@ -5,8 +5,11 @@ seo-description: Utilisation des onglets Solution dans Adobe Debugger
 seo-title: Onglets Solution dans Adobe Debugger
 title: Onglets Solution
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ Cliquez sur l’identifiant de la suite de rapports pour développer la vue :
 
 ![](assets/analytics-hits-expand.jpg)
 
-Cet écran affiche toutes les requêtes depuis l’ouverture de Debugger ou leur effacement. Les paramètres par défaut sont automatiquement mappés à des noms conviviaux. Les variables [prop et eVar](https://docs.adobe.com/content/help/fr-FR/analytics/implementation/vars/page-vars/evar.html) peuvent être mappées à vos noms conviviaux personnalisés (par exemple, « prop1 » peut s’afficher en tant que « Type d’utilisateur ») si vous vous authentifiez à l’aide de la fonction « Lier Analytics » (voir ci-dessous). Les requêtes sont affichées de manière séquentielle de gauche à droite.
+Cet écran affiche toutes les requêtes depuis l’ouverture ou l’effacement du débogueur Adobe Experience Form. Les paramètres par défaut sont automatiquement mappés à des noms conviviaux. Les variables [prop et eVar](https://docs.adobe.com/content/help/fr-FR/analytics/implementation/vars/page-vars/evar.html) peuvent être mappées à vos noms conviviaux personnalisés (par exemple, « prop1 » peut s’afficher en tant que « Type d’utilisateur ») si vous vous authentifiez à l’aide de la fonction « Lier Analytics » (voir ci-dessous). Les requêtes sont affichées de manière séquentielle de gauche à droite.
 
 **Télécharger :** enregistrez toutes les requêtes adressées à la suite de rapports en tant que feuille de calcul Excel.
 
@@ -41,7 +44,7 @@ Cet écran affiche toutes les requêtes depuis l’ouverture de Debugger ou leur
 
 **Comptes liés (hérités)**
 
-Cliquez sur **[!UICONTROL Link Account]**, puis entrez les informations demandées pour lier un compte Analytics à Debugger.
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ Cliquez sur **[!UICONTROL Link Account]**, puis entrez les informations demandé
 
 Activez l’option Récupérer les accès après traitement si vous souhaitez afficher les valeurs sur les accès à Analytics après l’exécution des règles de traitement. Vous devez être connecté à Adobe Experience Cloud pour que cette fonctionnalité fonctionne.
 
-Lorsque cette option est activée, un paramètre de débogage est ajouté à vos requêtes Analytics. Les accès continuent d’être traités comme tout autre accès. Debugger interroge l’API de débogage Analytics pour récupérer les valeurs des règles après traitement pour tous les accès ayant un identifiant d’accès d’origine. Les accès après traitement ont un arrière-plan violet et s’affichent en regard de l’accès d’origine.
+Lorsque cette option est activée, un paramètre de débogage est ajouté à vos requêtes Analytics. Les accès continuent d’être traités comme tout autre accès. Le débogueur de plateformes recherche l’API de débogage Analytics pour récupérer les valeurs des règles de post-traitement pour tous les accès ayant un identifiant d’accès d’origine. Les accès après traitement ont un arrière-plan violet et s’affichent en regard de l’accès d’origine.
 
 Pour la plupart des mises en œuvre d’Analytics, les informations des règles après traitement sont disponibles en quelques minutes. La mise en œuvre d’Analytics pour Target (A4T) prend beaucoup plus de temps.
 
@@ -85,11 +88,11 @@ Vous devez disposer d’un onglet Chrome ouvert authentifié dans Experience Clo
 
 La vidéo suivante présente la fonctionnalité générale de Target :
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 La vidéo suivante présente mboxTrace :
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
