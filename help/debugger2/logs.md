@@ -5,11 +5,11 @@ seo-description: Écran Journaux d'Experience Platform Debugger
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
-L’écran Journaux fournit des informations spécifiques aux implémentations de DTM, de Launch et de SDK Web AEP. Il n’est pas nécessaire d’activer l’outil de débogage de console pour DTM en vue d’afficher ces informations. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
+L’écran Journaux fournit des informations spécifiques aux implémentations de DTM, Adobe Experience Platform Launch et Adobe Experience Platform Web SDK. Il n’est pas nécessaire d’activer l’outil de débogage de console pour DTM en vue d’afficher ces informations. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
 
 ![](assets/logs.jpg)
 
