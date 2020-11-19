@@ -5,11 +5,11 @@ seo-description: Écran Outils du Débogueur Experience Cloud
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la
 
 ![](assets/tools.jpg)
 
-Vous pouvez insérer dynamiquement Adobe Experience Platform Launch ou DTM sur une page pour tester quelque chose sur une page sur laquelle Plateforme Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://docs.adobe.com/content/help/fr-FR/dtm/using/client-side/deployment.html) et cliquez sur **[!UICONTROL Save]**.
+Vous pouvez effectuer une insertion dynamique d’Adobe Experience Platform Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Platform Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://docs.adobe.com/content/help/fr-FR/dtm/using/client-side/deployment.html) et cliquez sur **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -68,8 +68,8 @@ Vous pouvez insérer dynamiquement Adobe Experience Platform Launch ou DTM sur u
    <td colname="col2"> <p>Cet outil présente les instructions de débogage spécifiques à Target dans la console du navigateur, commençant toutes par <span class="codeph"> AT :</span> en ajoutant un cookie appelé <span class="codeph"> mboxDebug=true</span> à votre navigateur. Actuellement, les instructions de la console n’apparaissent pas dans l’écran Journaux de Debugger, mais elles sont visibles dans la console de débogage native du navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version d’at.js, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDebug=true</span> à votre URL afin d’activer la journalisation de la console. Si vous utilisez mbox.js, vous pouvez ajouter le paramètre <span class="codeph"> ?_AT_Debug=console</span> pour activer la journalisation de la console limitée aux activités du compositeur d’expérience visuelle. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> Activer mboxTraces </p> </td> 
-   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mboxTrace</span> de Debugger. </p> <p> Vous devez être connecté à Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
+   <td colname="col1"> <p> Activer mbox Traces </p> </td> 
+   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mbox Trace</span> de Debugger. </p> <p> Vous devez être connecté à Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Désactiver Target </p> </td> 
@@ -84,4 +84,4 @@ Vous pouvez insérer dynamiquement Adobe Experience Platform Launch ou DTM sur u
 
 La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=fre_fr)
