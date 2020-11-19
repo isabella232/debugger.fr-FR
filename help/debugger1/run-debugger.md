@@ -5,22 +5,22 @@ seo-description: Exécution du Débogueur Experience Cloud
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
 # Écran récapitulatif {#summary-screen}
 
-Pour exécuter le débogueur Adobe Experience Cloud, cliquez sur l’icône d’extension dans la barre d’extension, puis ouvrez la page à examiner dans Chrome.
+Pour exécuter Adobe Experience Cloud Debugger, cliquez sur l’icône d’extension dans la barre d’extension, puis ouvrez la page à examiner dans Chrome.
 
 ![](assets/start-icon.jpg)
 
-L’écran Résumé pour l’Experience Cloud Debugger s’affiche.
+L’écran récapitulatif d’Experience Cloud Debugger s’affiche.
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ Par exemple, l’illustration suivante présente des informations sur Adobe Targ
 
 ![](assets/summary-target2.jpg)
 
-## Exécution d’un audit dans Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
+## Exécution d’un audit dans Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Vous pouvez utiliser l’Auditeur de base pour exécuter une série d’audits sur votre page. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Vous pouvez utiliser Platform Auditor pour exécuter une série d’audits sur votre page. Pour exécuter Platform Auditor, cliquez sur **[!UICONTROL Auditor]** dans le menu supérieur, puis sur **[!UICONTROL Audit Page Now]**. Pour ouvrir Platform Auditor, cliquez sur **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Informations affichées dans Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-L’Experience Cloud Debugger affiche les informations suivantes pour chaque solution :
+Experience Cloud Debugger affiche les informations suivantes pour chaque solution :
 
 **Informations sur la page**
 
@@ -111,7 +111,7 @@ L’Experience Cloud Debugger affiche les informations suivantes pour chaque sol
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nom </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Nom de la <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propriété </a> Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
@@ -119,15 +119,15 @@ L’Experience Cloud Debugger affiche les informations suivantes pour chaque sol
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date de version </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Date de version de la <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/libraries.html" format="https" scope="external">bibliothèque</a> Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environnement </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/reference/publish/environments.html" format="https" scope="external">Environnement</a> utilisé par la bibliothèque Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Répertoire de script </p> </td> 
-   <td colname="col2"> <p>Répertoire dans lequel le script de lancement de plate-forme est stocké </p> </td> 
+   <td colname="col2"> <p>Répertoire dans lequel est stocké le script Platform Launch. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ L’Experience Cloud Debugger affiche les informations suivantes pour chaque sol
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date de version </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Date de version de la <a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/library-management.html" format="html" scope="external">bibliothèque</a> Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Environnement </p> </td> 
