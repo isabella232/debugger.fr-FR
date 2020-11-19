@@ -5,11 +5,11 @@ seo-description: Notes de mise à jour du Débogueur Experience Cloud
 seo-title: Notes de mise à jour
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '723'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 85%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Tests de l'auditeur Adobe Experience Platform </p> </td> 
-   <td colname="col2"> <p> Tests <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> d'auditeur de</a> plateformes Ajoutés à l'Experience Cloud Debugger </p> </td> 
+   <td colname="col1"> <p>Tests d’Adobe Experience Platform Auditor </p> </td> 
+   <td colname="col2"> <p> Ajout de <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">tests de Platform Auditor</a> à Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>L’Experience Cloud Debugger affiche désormais les réponses AAM </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger affiche désormais les réponses AAM </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 85%
 
 * Correction d’un problème en raison duquel le pied de page masquait du contenu au bas de la page.
 
-* Mise à jour du pied de page de l’Experience Cloud Debugger
+* Mise à jour du pied de page d’Experience Cloud Debugger.
 * Correction d’un problème en raison duquel une terminologie obsolète était utilisée pour Target.
 
 ## Version 0.0.809 28 février 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 85%
 
 * Correction d’un problème dans l’Insertion dynamique de Launch en raison duquel l’interface utilisateur semblait mapper à un autre code intégré alors qu’elle ne le faisait pas.
 * Correction d’un problème dans l’Insertion dynamique de Launch en raison duquel une URL incorrecte continuait à s’afficher.
-* Correction d’un problème en raison duquel l’Experience Cloud Debugger continuait à remplacer les codes incorporés même lorsque la fenêtre de l’Experience Cloud Debugger était fermée.
+* Correction d’un problème en raison duquel Eperience Cloud Debugger continuait à remplacer les codes intégrés même lorsque la fenêtre d’Experience Cloud Debugger était fermée.
 
 ## Version 0.0.806 10 septembre 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 85%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Insertion dynamique de Launch </p> </td> 
-   <td colname="col2"> <p>Dans l’onglet Outils, vous pouvez insérer dynamiquement de l’Adobe Experience Platform Launch sur n’importe quelle page afin de tester quelque chose sur une page sur laquelle Plateforme Launch n’est pas installé. </p> </td> 
+   <td colname="col2"> <p>Dans l’onglet Outils, vous pouvez insérer Adobe Experience Platform Launch de façon dynamique sur une page afin de tester quelque chose sur une page sur laquelle Platform Launch n’est pas installé. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Améliorations apportées à Target </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 85%
 * Correction d’un problème en raison duquel l’onglet Experience Cloud n’était pas mis à jour.
 
 * Correction d’un problème en raison duquel « Media Optimizer » s’affichait dans la ligne Solution de l’onglet Réseau, plutôt que dans le nom « Advertising Cloud » actuel.
-* Correction d’un problème en raison duquel l’Experience Cloud Debugger injectait _satellite sur chaque page.
+* Correction d’un problème en raison duquel Experience Cloud Debugger injectait _satellite sur chaque page.
 
 ## Version 0.0.803 10 août 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Lien de l’auditeur de plateformes sur l’onglet Outils </p> </td> 
-   <td colname="col2"> <p>Ajouté d'un lien vers Platform Auditor à partir de l'Experience Cloud Debugger </p> </td> 
+   <td colname="col1"> <p>Lien Platform Auditor sur l’onglet Outils </p> </td> 
+   <td colname="col2"> <p>Ajout d’un lien vers Platform Auditor à partir d’Experience Cloud Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Onglets réduits </p> </td> 
@@ -245,7 +245,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Bascules   de mbox </p> </td> 
+   <td colname="col1"> <p>Bascules de mbox </p> </td> 
    <td colname="col2"> <p>Les bascules de mbox ont été ajoutées à l’onglet Target. </p> </td> 
   </tr> 
   <tr> 
