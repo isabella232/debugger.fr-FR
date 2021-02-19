@@ -1,6 +1,6 @@
 ---
 description: Écran Informations réseau du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: debugger;extension experience cloud debugger;chrome;extension;réseau;informations
 seo-description: Écran Informations réseau du Débogueur Experience Cloud
 seo-title: Informations réseau
 title: Informations réseau
@@ -8,7 +8,7 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
