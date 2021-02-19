@@ -1,13 +1,13 @@
 ---
 description: À propos d’Adobe Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
+keywords: débogueur ; extension du débogueur de plate-forme d’expérience ; chrome;extension;auditeur;dtm;cible
 seo-description: À propos d’Adobe Experience Platform Auditor
 title: Auditor
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 89%
 
 ---
 
