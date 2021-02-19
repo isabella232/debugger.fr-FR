@@ -1,6 +1,6 @@
 ---
 description: Utilisation des onglets Solution dans Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: debugger;experience cloud debugger extension;chrome;extension;récapitulatif;effacer;solutions;solution;information;analytics;target;audience manager;media optimizer;service amo;service d’identification
 seo-description: Utilisation des onglets Solution dans Adobe Debugger
 seo-title: Onglets Solution dans Adobe Debugger
 title: Onglets Solution
@@ -8,7 +8,7 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1085'
 ht-degree: 100%
 
 ---
@@ -70,7 +70,7 @@ Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour a
 
 Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
 
-Vous pouvez également utiliser le filtre Target pour [activer mbox Trace à des fins de débogage de Target](https://docs.adobe.com/content/help/fr-FR/target/using/activities/troubleshoot-activities/content-trouble.html).
+Vous pouvez également utiliser le filtre Target pour [activer mbox Trace à des fins de débogage de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Vous devez disposer d’un onglet Chrome ouvert authentifié dans Experience Cloud pour activer mbox Trace. Une fois activé, il affiche le nom d’utilisateur de votre Adobe ID. Développez votre nom d’utilisateur pour exposer les codes client Target associés aux organisations Experience Cloud auxquelles vous avez accès. Cliquez sur le code client pour lequel vous souhaitez activer mbox Trace et vérifiez que la coche verte apparaît. Toutes les requêtes Target contenant des informations mbox Trace s’affichent désormais, regroupées par code client. Pour explorer les informations mbox Trace, développez la requête afin d’afficher les onglets :
 
@@ -78,7 +78,7 @@ Vous devez disposer d’un onglet Chrome ouvert authentifié dans Experience Clo
 
 * Requête
 
-   L’onglet Requête de suivi de [mbox Trace](https://docs.adobe.com/content/help/fr-FR/target/using/activities/troubleshoot-activities/content-trouble.html) est similaire à l’onglet de requête principal. Vous pouvez afficher tous les paramètres transmis par la requête Target, en plus des en-têtes de la requête.
+   L’onglet Requête de suivi de [mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) est similaire à l’onglet de requête principal. Vous pouvez afficher tous les paramètres transmis par la requête Target, en plus des en-têtes de la requête.
 * Profil
 
    Développez la section Instantané de profil pour afficher les [informations de profil](https://docs.adobe.com/content/help/fr-FR/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) stockées qui vous concernent en tant que visiteur dans la base de données de profil de Target. Tous les profils internes à la mbox et de script sont présentés ici, ainsi que certains profils système. La colonne Statut indique les profils modifiés dans le cadre de cette requête, ainsi que leurs valeurs avant et après la saisie de la requête dans le système de profil.
