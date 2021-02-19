@@ -1,6 +1,6 @@
 ---
 description: Utilisation des onglets Solution dans Adobe Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: débogueur ; expérience Platform Debugger extension;chrome;extension;summary;clear;requests;solution;information;analytics;cible;audience manager;media optimizer;service amo;id
 seo-description: 'Utilisation des onglets Solution dans Adobe Experience Platform Debugger '
 seo-title: 'Onglets Solution dans Adobe Experience Platform Debugger '
 title: Onglets Solution
@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '302'
+ht-degree: 92%
 
 ---
 
