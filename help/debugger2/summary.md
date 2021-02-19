@@ -1,6 +1,6 @@
 ---
 description: Écran Résumé d’Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: débogueur ; expérience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;analytics;cible;dtm;audience manager;launch;id service
 seo-description: Écran Résumé d’Experience Platform Debugger
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '957'
-ht-degree: 100%
+source-wordcount: '979'
+ht-degree: 97%
 
 ---
 
@@ -148,7 +148,7 @@ Experience Platform Debugger affiche les informations suivantes pour chaque so
   </tr> 
   <tr> 
    <td colname="col1"> <p>Version </p> </td> 
-   <td colname="col2"> <p>Version de la bibliothèque<a href="https://experiencecloud.adobe.com/resources/help/fr_FR/sc/implement/visid_analytics.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
+   <td colname="col2"> <p>Version de la bibliothèque<a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> d’identifiants visiteur</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -179,27 +179,27 @@ Experience Platform Debugger affiche les informations suivantes pour chaque so
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de l’activité </p> </td> 
-   <td colname="col2"> <p>Nom de la <a href="https://docs.adobe.com/content/help/fr-FR/target/using/activities/activities.html" format="html" scope="external"> campagne ou de l’activité</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>Nom de la <a href="https://docs.adobe.com/content/help/fr-FR/target/using/activities/activities.html" format="html" scope="external"> campagne ou de l’activité</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Code d’activité </p> </td> 
-   <td colname="col2"> <p>ID de l’activité de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>ID de l’activité de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nom de l’expérience </p> </td> 
-   <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/experiences.html" format="html" scope="external"> l’expérience</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/experiences.html" format="html" scope="external"> l’expérience</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID d’expérience </p> </td> 
-   <td colname="col2"> <p>ID de l’expérience Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>ID de l’expérience Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Offre Nom</p> </td> 
-   <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> l’offre</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>Nom de <a href="https://docs.adobe.com/content/help/fr-FR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> l’offre</a> de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID d’offre </p> </td> 
-   <td colname="col2"> <p>ID de l’offre de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
+   <td colname="col2"> <p>ID de l’offre de Target. Disponible sans authentification uniquement si vous implémentez le récepteur d’événements de débogage dans votre gestionnaire de codes ou de balises et si vous activez les <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> jetons de réponse</a> nécessaires dans l’interface utilisateur de Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>
