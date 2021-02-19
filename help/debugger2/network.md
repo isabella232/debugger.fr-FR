@@ -1,6 +1,6 @@
 ---
 description: Écran Réseau d'Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: débogueur;expérience Platform Debugger extension;chrome;extension;réseau;information
 seo-description: Écran Réseau d'Experience Platform Debugger
 seo-title: Informations réseau
 title: Informations réseau
@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 96%
 
 ---
 
