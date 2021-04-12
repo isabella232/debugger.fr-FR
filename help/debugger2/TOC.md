@@ -8,9 +8,9 @@ user-guide-title: Aide pour Experience Platform Debugger
 user-guide-description: Parcourez vos pages web à la recherche de problèmes éventuels grâce à vos implémentations Experience Platform.
 breadcrumb-title: Guide de Platform Debugger
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
