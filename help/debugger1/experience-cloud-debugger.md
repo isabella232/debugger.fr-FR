@@ -5,14 +5,13 @@ seo-description: Documentation technique pour l’extension Adobe Experience Clo
 seo-title: Extension Adobe Experience Cloud Debugger pour Chrome
 title: Extension Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
+source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 100%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
-
 
 # Extension Adobe Experience Cloud Debugger {#adobe-experience-cloud-debugger-extension}
 
@@ -20,7 +19,7 @@ L’[extension Adobe Experience Cloud Debugger pour Chrome](https://chrome.go
 
 Utilisez l’extension Adobe Experience Cloud Debugger avec les autres solutions d’Adobe Activation pour un flux de travail tel que celui-ci :
 
-1. Utilisez [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html) ou [DTM](https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.html) sur vos pages.
+1. Utilisez [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) sur vos pages.
 
 1. Utilisez [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html) pour tester vos mises en œuvre.
 1. Utilisez l’extension Adobe Experience Cloud Debugger pour déboguer les problèmes détectés par Auditor ou pour consulter d’autres informations sur vos mises en œuvre.
