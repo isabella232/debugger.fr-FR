@@ -5,22 +5,21 @@ seo-description: Écran Outils du Débogueur Experience Cloud
 seo-title: Outils
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: ad108515-030f-4790-a29c-70f82e58a55d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '405'
 ht-degree: 100%
 
 ---
 
-
-# Outils {#tools}
+# Outils{#tools}
 
 Dans l’écran Outils, vous pouvez activer ou désactiver divers outils pour la solution installée. Par exemple, vous pouvez activer les instructions de débogage de console de Target ou utiliser la bibliothèque d’évaluation de la gestion dynamique des balises. Ces outils ne sont disponibles que si Target et DTM sont installés sur votre page.
 
 ![](assets/tools.jpg)
 
-Vous pouvez effectuer une insertion dynamique d’Adobe Experience Platform Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Platform Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Embed Code]**, puis saisissez votre [code intégré](https://docs.adobe.com/content/help/fr-FR/dtm/using/client-side/deployment.html) et cliquez sur **[!UICONTROL Save]**.
+Vous pouvez effectuer une insertion dynamique d’Adobe Experience Platform Launch ou DTM sur n’importe quelle page pour tester quelque chose sur une page sur laquelle Platform Launch ou DTM n’est pas installé. Cliquez sur l’icône **[!UICONTROL Code intégré]**, puis saisissez votre [code intégré](https://docs.adobe.com/content/help/fr-FR/dtm/using/client-side/deployment.html) et cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![](assets/tools-embedcode.jpg)
 
