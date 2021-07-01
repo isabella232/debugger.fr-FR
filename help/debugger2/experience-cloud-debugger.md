@@ -9,7 +9,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 Utilisez Platform Debugger avec les autres solutions d’Adobe Activation pour un workflow tel que celui-ci :
 
-1. Utilisez [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) ou [DTM](https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/fr-FR/core-services/interface/experience-cloud.html) sur vos pages.
+1. Utilisez [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=fr) ou [DTM](https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html) pour insérer du code qui active les solutions [Adobe Experience Cloud](https://docs.adobe.com/content/help/fr-FR/core-services/interface/experience-cloud.html) sur vos pages.
 
 1. Utilisez [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html) pour tester vos mises en œuvre.
 1. Utilisez l’Adobe Experience Platform Debugger pour déboguer les problèmes détectés par Auditor ou pour consulter d’autres informations sur vos mises en œuvre.
