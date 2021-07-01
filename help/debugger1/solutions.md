@@ -5,16 +5,15 @@ seo-description: Utilisation des onglets Solution dans Adobe Debugger
 seo-title: Onglets Solution dans Adobe Debugger
 title: Onglets Solution
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1102'
+ht-degree: 98%
 
 ---
 
-
-# Onglets Solution {#solution-tabs}
+# Onglets Solution{#solution-tabs}
 
 Cliquez sur les onglets Solution pour afficher les résultats de solutions Adobe Experience Cloud spécifiques.
 
@@ -44,7 +43,7 @@ Cet écran affiche toutes les requêtes depuis l’ouverture d’Adobe Experien
 
 **Comptes liés (hérités)**
 
-Cliquez sur **[!UICONTROL Link Account]**, puis entrez les informations demandées pour lier un compte Analytics à Platform Debugger.
+Cliquez sur **[!UICONTROL Lier le compte]**, puis saisissez les informations demandées pour lier un compte Analytics à Platform Debugger.
 
 >[!NOTE]
 >
@@ -64,11 +63,11 @@ Pour la plupart des mises en œuvre d’Analytics, les informations des règles 
 
 Utilisez l’onglet Target pour afficher les requêtes [Target](https://docs.adobe.com/content/help/fr-FR/target/using/target-home.html) ou les détails de réponse de suivi de [mbox Trace](https://docs.adobe.com/content/help/fr-FR/target/using/activities/troubleshoot-activities/content-trouble.html).
 
-Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur Target.
+Cliquez sur **[!UICONTROL Requêtes]**, puis développez l’environnement pour afficher des informations sur Target.
 
 ![](assets/target-requests.jpg)
 
-Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
 
 Vous pouvez également utiliser le filtre Target pour [activer mbox Trace à des fins de débogage de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
@@ -100,7 +99,7 @@ Utilisez l’onglet [Audience Manager](https://docs.adobe.com/content/help/fr-FR
 
 ![](assets/audience-manager.jpg)
 
-Cliquez sur **[!UICONTROL Clear All Events]** pour réinitialiser les informations affichées. Les nouveaux événements apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Effacer tous les événements]** pour réinitialiser les informations affichées. Les nouveaux événements apparaissent au fur et à mesure.
 
 **Synchronisation des identifiants**
 
@@ -114,14 +113,14 @@ Pour plus d’informations, voir [Synchronisation des identifiants pour les tran
 
 Utilisez l’onglet Advertising Cloud pour afficher les requêtes Advertising Cloud.
 
-Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur Advertising Cloud.
+Cliquez sur **[!UICONTROL Requêtes]**, puis développez l’environnement pour afficher des informations sur Advertising Cloud.
 
-Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
 
 ## Service Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilisez l’onglet Service Experience Cloud ID pour afficher les requêtes du [service Experience Cloud ID](https://docs.adobe.com/content/help/fr-FR/id-service/using/home.html).
 
-Cliquez sur **[!UICONTROL Requests]**, puis développez l’environnement pour afficher des informations sur le service Experience Cloud ID.
+Cliquez sur **[!UICONTROL Requêtes]**, puis développez l’environnement pour afficher des informations sur le service Experience Cloud ID.
 
-Cliquez sur **[!UICONTROL Clear All Requests]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
+Cliquez sur **[!UICONTROL Effacer toutes les requêtes]** pour supprimer les requêtes actuellement affichées. D’autres requêtes apparaissent au fur et à mesure.
