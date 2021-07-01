@@ -1,20 +1,19 @@
 ---
 description: Écran Résumé d’Experience Platform Debugger
-keywords: débogueur ; expérience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;analytics;cible;dtm;audience manager;launch;id service
+keywords: debugger;extension Experience Platform Debugger;chrome;extension;récapitulatif;effacer;requêtes;écran récapitulatif;solution;informations;analytics;target;dtm;audience manager;launch;service d’identification
 seo-description: Écran Résumé d’Experience Platform Debugger
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 97%
 
 ---
 
-
-# Écran récapitulatif {#summary-screen}
+# Écran récapitulatif{#summary-screen}
 
 >[!IMPORTANT]
 >
@@ -203,4 +202,3 @@ Experience Platform Debugger affiche les informations suivantes pour chaque so
   </tr> 
  </tbody> 
 </table>
-
