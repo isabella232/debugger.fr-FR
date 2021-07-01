@@ -1,20 +1,19 @@
 ---
 description: Écran Journaux d’Experience Platform Debugger
-keywords: débogueur;expérience Platform Debugger extension;chrome;extension;logs
+keywords: debugger;extension Experience Platform Debugger;chrome;extension;journaux
 seo-description: Écran Journaux d’Experience Platform Debugger
 seo-title: Journaux
 title: Journaux
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+source-wordcount: '176'
+ht-degree: 71%
 
 ---
 
-
-# Journaux {#logs}
+# Journaux{#logs}
 
 >[!IMPORTANT]
 >
@@ -26,19 +25,19 @@ L’écran Journaux fournit des informations spécifiques aux implémentations d
 
 L’écran Journaux affiche les informations en quatre colonnes :
 
-**[!UICONTROL Solutions] :** affiche les icônes de la solution Experience Cloud affectée par l’élément journalisé. Placez le pointeur sur l’icône pour obtenir une description textuelle.
+**[!UICONTROL Solutions] :** affiche les icônes de la solution Experience Cloud affectée par l’élément journalisé. Placez le pointeur sur l’icône pour obtenir une description textuelle.
 
-**[!UICONTROL Occurred at] :** indique le moment où le problème journalisé s’est produit pendant la session.
+**[!UICONTROL Ce problème s’est produit à l’adresse ] :**  indique le moment où le problème journalisé s’est produit au cours de la session.
 
-**[!UICONTROL Log level] :** affiche la gravité du problème. La gravité est l’un des niveaux suivants :
+**[!UICONTROL Niveau de journal] :** affiche la gravité du problème. La gravité est l’un des niveaux suivants :
 
 * Journal
 * Infos
 * Avertissements
 * Erreurs
 
-**[!UICONTROL Log message] :** décrit le problème.
+**[!UICONTROL Message du journal] :** décrit le problème.
 
-Certains messages du journal disposent d’une option Afficher le code. Cliquez sur **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
+Certains messages du journal disposent d’une option Afficher le code. Cliquez sur **[!UICONTROL Afficher le code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
 
-Pour effacer le journal, cliquez sur **[!UICONTROL Remove Logs]**.
+Pour effacer le journal, cliquez sur **[!UICONTROL Supprimer les journaux]**.
