@@ -5,16 +5,15 @@ seo-description: Exécution du Débogueur Experience Cloud
 seo-title: Écran récapitulatif
 title: Écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1080'
+ht-degree: 97%
 
 ---
 
-
-# Écran récapitulatif {#summary-screen}
+# Écran récapitulatif{#summary-screen}
 
 Pour exécuter Adobe Experience Cloud Debugger, cliquez sur l’icône d’extension dans la barre d’extension, puis ouvrez la page à examiner dans Chrome.
 
@@ -26,7 +25,7 @@ L’écran récapitulatif d’Experience Cloud Debugger s’affiche.
 
 Cet écran affiche une miniature de la page, ainsi que son URL et son titre. Il affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
-Les numéros en bleu en regard des onglets dans la partie supérieure de la fenêtre indiquent le nombre d’appels au serveur qui ont été effectués. Vous pouvez les remettre à zéro en cliquant sur **[!UICONTROL Clear All Requests]** dans l’onglet correspondant.
+Les numéros en bleu en regard des onglets dans la partie supérieure de la fenêtre indiquent le nombre d’appels au serveur qui ont été effectués. Vous pouvez les remettre à zéro en cliquant sur **[!UICONTROL Effacer toutes les requêtes]** dans l’onglet correspondant.
 
 Par exemple, l’illustration suivante présente des informations sur Adobe Target. Pour exposer les détails de l’activité illustrés ci-dessous sans authentification, vous devez mettre en œuvre le récepteur d’événement de débogage dans votre gestionnaire de codes ou de balises et activer les [jetons de réponse](https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html) nécessaires dans l’interface utilisateur de Target.
 
@@ -34,7 +33,7 @@ Par exemple, l’illustration suivante présente des informations sur Adobe Targ
 
 ## Exécution d’un audit dans Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Vous pouvez utiliser Platform Auditor pour exécuter une série d’audits sur votre page. Pour exécuter Platform Auditor, cliquez sur **[!UICONTROL Auditor]** dans le menu supérieur, puis sur **[!UICONTROL Audit Page Now]**. Pour ouvrir Platform Auditor, cliquez sur **[!UICONTROL Run Multi-Page Audit Now]**.
+Vous pouvez utiliser Platform Auditor pour exécuter une série d’audits sur votre page. Pour exécuter Platform Auditor, cliquez sur **[!UICONTROL Auditor]** dans le menu supérieur, puis cliquez sur **[!UICONTROL Vérifier la page maintenant]**. Pour ouvrir Platform Auditor, cliquez sur **[!UICONTROL Exécuter le contrôle multipage maintenant]**.
 
 ## Informations affichées dans Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -220,4 +219,3 @@ Experience Cloud Debugger affiche les informations suivantes pour chaque solut
   </tr> 
  </tbody> 
 </table>
-
