@@ -5,16 +5,15 @@ seo-description: Notes de mise à jour du Débogueur Experience Cloud
 seo-title: Notes de mise à jour
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-
-# Notes de mise à jour {#release-notes}
+# Notes de mise à jour{#release-notes}
 
 ## Notes de mise à jour {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
@@ -60,7 +59,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## Corrections de bogues {#section-f5e9d54e9d2546afb97972cdb6d8a093}
+## Correctifs {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
 * Correction d’un problème en raison duquel le pied de page masquait du contenu au bas de la page.
 
@@ -90,7 +89,7 @@ ht-degree: 100%
 
 * Correction d’une vulnérabilité potentielle causée par une entrée utilisateur non expurgée.
 
-## Corrections de bogues {#section-556417ff055848c1bf037354dd43cbd0}
+## Correctifs {#section-556417ff055848c1bf037354dd43cbd0}
 
 * Correction d’un problème en raison duquel des événements AAM DIL n’étaient pas capturés dans l’onglet AAM.
 
@@ -134,14 +133,14 @@ ht-degree: 100%
 * Amélioration de l’affichage de l’onglet Réseau de sorte que le tableau ne soit pas trop haut et oblige l’utilisateur à effectuer un défilement vertical avant de pouvoir en effectuer un horizontalement. Auparavant, les barres de défilement s’affichaient au bas du tableau. Comme le tableau pouvait devenir assez grand, les utilisateurs devaient faire défiler tout le contenu verticalement pour l’afficher.
 * Mise à jour du lien vers ObservePoint à partir de l’onglet Outils.
 
-## Corrections de bogues {#section-d9231f5c77254d0888347e5f569a8b1d}
+## Correctifs {#section-d9231f5c77254d0888347e5f569a8b1d}
 
 * Correction d’un problème en raison duquel l’onglet Experience Cloud n’était pas mis à jour.
 
 * Correction d’un problème en raison duquel « Media Optimizer » s’affichait dans la ligne Solution de l’onglet Réseau, plutôt que dans le nom « Advertising Cloud » actuel.
 * Correction d’un problème en raison duquel Experience Cloud Debugger injectait _satellite sur chaque page.
 
-## Version 0.0.803 10 août 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
+## Version 0.0.803 10er août 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
 La version 0.0.803 ne contient aucune modification à l’intention des clients.
 
@@ -177,7 +176,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
 * Nom de Media Optimizer remplacé par Advertising Cloud.
 * Suppression de solutions de l’onglet Réseau si elles sont introuvables.
 
-## Corrections de bogues {#section-7c0e4cc4b00a428489bed4a0a27c9501}
+## Correctifs {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
 * Correction d’un problème en raison duquel la fonction « Cliquer sur la cellule pour afficher » n’était pas mise à jour.
 * Correction d’un problème en raison duquel les accès AAM n’étaient pas affichés sur l’onglet AAM.
@@ -227,7 +226,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
  </tbody> 
 </table>
 
-## Corrections de bogues {#section-c292cf7dcb17463bb1928de73bd55121}
+## Correctifs {#section-c292cf7dcb17463bb1928de73bd55121}
 
 * Correction d’un problème en raison duquel le numéro de badge ne s’effaçait pas.
 * Correction d’un problème en raison duquel un client signalait des détails de récapitulatif vides.
@@ -262,4 +261,3 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
   </tr> 
  </tbody> 
 </table>
-
