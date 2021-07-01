@@ -1,26 +1,25 @@
 ---
 description: Écran Réseau d'Experience Platform Debugger
-keywords: débogueur;expérience Platform Debugger extension;chrome;extension;réseau;information
+keywords: debugger;extension Experience Platform Debugger;chrome;extension;réseau;informations
 seo-description: Écran Réseau d'Experience Platform Debugger
 seo-title: Informations réseau
 title: Informations réseau
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 96%
+source-wordcount: '241'
+ht-degree: 87%
 
 ---
 
-
-# Réseau {#network}
+# Réseau{#network}
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
-Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
+Pour afficher les informations réseau, cliquez sur **[!UICONTROL Réseau]**.
 
 L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud effectués sur la page et les affiche de façon ordonnée de gauche à droite. Les paramètres standard sont automatiquement étiquetés avec des noms conviviaux et organisés pour regrouper des paramètres communs sur le même rôle.
 
@@ -36,7 +35,7 @@ Pour modifier les informations par solution, sélectionnez la solution que vous 
 
 ![](assets/network-analytics.jpg)
 
-Pour revenir à l’affichage de toutes les solutions, cliquez sur **[!UICONTROL Network]**.
+Pour revenir à l’affichage de toutes les solutions, cliquez sur **[!UICONTROL .Réseau]**
 
 Cliquez sur un élément dans la vue Réseau pour consulter un affichage agrandi. Vous pouvez copier les informations affichées dans le Presse-papiers à partir de la fenêtre d’affichage agrandie.
 
@@ -46,6 +45,6 @@ Cliquez sur un élément dans la vue Réseau pour consulter un affichage agrandi
 
 ![](assets/copy.jpg)-->
 
-Pour effacer la liste, cliquez sur **[!UICONTROL Remove Events]**.
+Pour effacer la liste, cliquez sur **[!UICONTROL Supprimer les événements]**.
 
-Pour télécharger un fichier Excel contenant les informations de cet écran, cliquez sur **[!UICONTROL Download]**.
+Pour télécharger un fichier Excel contenant les informations de cet écran, cliquez sur **[!UICONTROL Télécharger]**.
