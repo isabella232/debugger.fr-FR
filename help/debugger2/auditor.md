@@ -1,27 +1,26 @@
 ---
 description: À propos d’Adobe Experience Platform Auditor
-keywords: débogueur ; extension du débogueur de plate-forme d’expérience ; chrome;extension;auditeur;dtm;cible
+keywords: debugger;extension experience platform debugger;chrome;extension;auditor;dtm;target
 seo-description: À propos d’Adobe Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 89%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
-
 
 # Auditor {#auditor}
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger  est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
+>Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
 Vous pouvez utiliser Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html) pour exécuter une série d’audits sur votre page à partir de l’écran Auditor.
 
 1. Cliquez sur **[!UICONTROL Auditor]** dans le volet de navigation de gauche.
-1. Cliquez sur **[!UICONTROL Run Auditor Tests]**.
+1. Cliquez sur **[!UICONTROL Exécuter les tests d’Auditor]**.
 
 Les résultats du test s’affichent.
 
