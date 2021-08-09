@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Cliquez sur une solution pour afficher les résultats de solutions Adobe Experie
 
 ## SDK web Adobe Experience Platform {#aep}
 
-L’écran SDK Web Adobe Experience Platform contient des informations sur le SDK web d’Adobe Experience Platform. Cliquez sur **[!UICONTROL Configurer]** pour activer ou désactiver la connexion à la console.
+L’écran SDK Web Adobe Experience Platform contient des informations sur le SDK web d’Adobe Experience Platform. Cliquez sur **[!UICONTROL Configure]** pour activer ou désactiver la connexion à la console.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
