@@ -7,8 +7,8 @@ title: Configurer Experience Platform Debugger
 exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 71%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,15 +24,15 @@ Vous pouvez configurer certains aspects de l’apparence et du fonctionnement d�
 
 ## Mode clair ou foncé
 
-Une fois Platform Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **[!UICONTROL Paramètres]** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
+Une fois Platform Debugger ouvert, vous pouvez sélectionner l’apparence souhaitée en accédant à **[!UICONTROL Settings]** et en sélectionnant **Mode sombre** (par défaut) ou **Mode clair**.
 
 ## Réinitialiser
 
-Cliquez sur **[!UICONTROL Reset all Data and Settings]** (CONTRÔLE Réinitialiser toutes les données et tous les paramètres) pour revenir à l’effacement de toutes les données et aux paramètres par défaut.
+Cliquez sur **[!UICONTROL Reset all Data and Settings]** pour revenir à l’effacement de toutes les données et aux paramètres par défaut.
 
 ## Verrouiller Experience Platform Debugger sur une page
 
-Lorsque vous modifiez une page de votre site, la fenêtre d’Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller Experience Platform Debugger sur une page, cliquez sur **[!UICONTROL Verrouiller]** dans le coin inférieur droit de la fenêtre Platform Debugger.
+Lorsque vous modifiez une page de votre site, la fenêtre d’Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller Experience Platform Debugger sur une page, cliquez sur **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Platform Debugger.
 
 ![](assets/lock.jpg)
 
