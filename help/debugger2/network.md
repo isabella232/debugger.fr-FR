@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 >
 >Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
 
-Pour afficher les informations réseau, cliquez sur **[!UICONTROL Réseau]**.
+Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
 
 L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud effectués sur la page et les affiche de façon ordonnée de gauche à droite. Les paramètres standard sont automatiquement étiquetés avec des noms conviviaux et organisés pour regrouper des paramètres communs sur le même rôle.
 
@@ -35,7 +35,7 @@ Pour modifier les informations par solution, sélectionnez la solution que vous 
 
 ![](assets/network-analytics.jpg)
 
-Pour revenir à l’affichage de toutes les solutions, cliquez sur **[!UICONTROL .Réseau]**
+Pour revenir à l’affichage de toutes les solutions, cliquez sur **[!UICONTROL Network]**.
 
 Cliquez sur un élément dans la vue Réseau pour consulter un affichage agrandi. Vous pouvez copier les informations affichées dans le Presse-papiers à partir de la fenêtre d’affichage agrandie.
 
@@ -45,6 +45,6 @@ Cliquez sur un élément dans la vue Réseau pour consulter un affichage agrandi
 
 ![](assets/copy.jpg)-->
 
-Pour effacer la liste, cliquez sur **[!UICONTROL Supprimer les événements]**.
+Pour effacer la liste, cliquez sur **[!UICONTROL Remove Events]**.
 
-Pour télécharger un fichier Excel contenant les informations de cet écran, cliquez sur **[!UICONTROL Télécharger]**.
+Pour télécharger un fichier Excel contenant les informations de cet écran, cliquez sur **[!UICONTROL Download]**.
