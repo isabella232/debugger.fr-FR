@@ -7,8 +7,8 @@ title: Événements
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,10 +39,10 @@ Pour activer le suivi des modifications apportées à la couche de données dans
 
    ![](assets/event-datalayer.jpg)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**.
+1. Cliquez sur **[!UICONTROL Save]**.
 
 Les détails des modifications apportées à la couche de données indiquent tout élément qui a été supprimé ou ajouté. Vous pouvez cliquer sur **{}** pour analyser plus en détail la couche de données.
 
 ## Téléchargement des informations sur l’événement
 
-Cliquez sur **[!UICONTROL Télécharger]** pour télécharger un fichier Excel contenant des informations sur les appels de page.
+Cliquez sur **[!UICONTROL Download]** pour télécharger un fichier Excel contenant des informations sur les appels de pages.
