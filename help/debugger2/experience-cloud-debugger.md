@@ -32,7 +32,7 @@ Les étapes ci-dessus ne sont pas nécessairement effectuées dans cet ordre, ma
 
 Bien que vous puissiez exécuter Platform Debugger sur n’importe quelle page web, toutes les données non publiques ne sont disponibles dans l’extension qu’à condition d’être authentifié dans Experience Cloud dans l’un de vos onglets Chrome ouverts.
 
-## Cas d’utilisation {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Cas d&#39;utilisation {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Utilisez Platform Debugger pour recueillir des informations qui vous aident à comprendre comment vos solutions Experience Cloud sont mises en œuvre. Par exemple :
 
