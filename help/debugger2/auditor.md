@@ -6,8 +6,8 @@ title: Auditor
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 78%
 Vous pouvez utiliser Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html) pour exécuter une série d’audits sur votre page à partir de l’écran Auditor.
 
 1. Cliquez sur **[!UICONTROL Auditor]** dans le volet de navigation de gauche.
-1. Cliquez sur **[!UICONTROL Exécuter les tests d’Auditor]**.
+1. Cliquez sur **[!UICONTROL Run Auditor Tests]**.
 
 Les résultats du test s’affichent.
 
