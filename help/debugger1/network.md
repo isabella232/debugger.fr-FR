@@ -8,14 +8,14 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Informations réseau{#network-information}
 
-Pour afficher les informations réseau, cliquez sur **[!UICONTROL Réseau]**.
+Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
 
 L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud effectués sur la page et les affiche de façon ordonnée de gauche à droite. Les paramètres standard sont automatiquement étiquetés avec des noms conviviaux et organisés pour regrouper des paramètres communs sur le même rôle.
 
@@ -27,7 +27,7 @@ L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud e
 >
 >Actuellement, tous les paramètres transmis dans les appels de solution (par exemple, les variables contextuelles Analytics, les paramètres personnalisés Target ou les ID de client du service Experience Cloud ID) ne sont pas visibles dans l’écran Réseau.
 
-Pour afficher toutes les informations, sélectionnez **[!UICONTROL Tout]**.
+Pour afficher toutes les informations, sélectionnez **[!UICONTROL All]**.
 
 Vous pouvez également filtrer les informations par solution. Sélectionnez les solutions à afficher. Vous pouvez afficher plusieurs solutions simultanément. Les filtres de solution sélectionnés sont mis en surbrillance.
 
