@@ -6,16 +6,39 @@ seo-title: Release Notes
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 016054f3cd47b9089afbdfbe75c5beec6945ce56
+source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 13%
+source-wordcount: '234'
+ht-degree: 11%
 
 ---
 
 # Notes de mise à jour{#release-notes}
 
 ## Notes de mise à jour {#topic-a92c3eb799b74e7fa404af8af5efb215}
+
+## Version 1.2.0 26 octobre 2021
+
+## Nouvelles fonctionnalités
+
+<table id="table">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> Fonctionnalité </th>
+   <th colname="col2" class="entry"> Description </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> Événements de tous les onglets du navigateur visibles dans la vue réseau </p> </td>
+   <td colname="col2"> <p> Affichez les événements de tous les onglets du navigateur dans la vue réseau. Pour afficher uniquement les événements de l’onglet actif, cliquez sur l’icône de verrouillage dans le coin inférieur droit du débogueur.</p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p> Modifications apportées à la marque </p> </td>
+   <td colname="col2"> <p> Le SDK Web AEP devient SDK Web Adobe Experience Platform et Launch devient des balises Adobe Experience Platform.</p> </td>
+  </tr>
+ </tbody>
+</table>
 
 ## Version 1.1.0 5 octobre 2021
 
