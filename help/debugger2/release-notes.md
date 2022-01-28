@@ -6,10 +6,10 @@ seo-title: Release Notes
 title: Notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
+source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 11%
+source-wordcount: '287'
+ht-degree: 3%
 
 ---
 
@@ -17,71 +17,31 @@ ht-degree: 11%
 
 ## Notes de mise à jour {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## Version 1.2.0 26 octobre 2021
+## Version 1.3.0 - 28 janvier 2022
 
-## Nouvelles fonctionnalités
+* Ajout du lien À propos pour afficher la version actuelle et les notes de mise à jour.
+* Ajout d’un bouton d’activation/désactivation pour afficher les accès post-traités pour les requêtes Analytics. Le bouton bascule est disponible dans la section Analytics .
+* Correction d’un problème de session de débogage à distance lorsque la session était fermée en dehors du débogueur.
+* Correction d’une notification d’erreur visible dans l’onglet Transactions Edge du SDK Web.
+* Correction d’un problème lié aux balises d’Adobe dans l’avertissement d’obsolescence de la page lorsque le débogueur accédait à l’objet _satellite.
+* Correction de certains cas où une instance AppMeasurement était introuvable sur la page.
+* Correction d’un problème de connexion à la page qui se produisait lors de la première ouverture de la fenêtre du débogueur.
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Fonctionnalité </th>
-   <th colname="col2" class="entry"> Description </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Événements de tous les onglets du navigateur visibles dans la vue réseau </p> </td>
-   <td colname="col2"> <p> Affichez les événements de tous les onglets du navigateur dans la vue réseau. Pour afficher uniquement les événements de l’onglet actif, cliquez sur l’icône de verrouillage dans le coin inférieur droit du débogueur.</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Modifications apportées à la marque </p> </td>
-   <td colname="col2"> <p> Le SDK Web AEP devient SDK Web Adobe Experience Platform et Launch devient des balises Adobe Experience Platform.</p> </td>
-  </tr>
- </tbody>
-</table>
+## Version 1.2.0 - 26 octobre 2021
 
-## Version 1.1.0 5 octobre 2021
+* Affichez les événements de tous les onglets du navigateur dans la vue réseau. Pour afficher uniquement les événements de l’onglet actif, cliquez sur l’icône de verrouillage dans le coin inférieur droit du débogueur.
+* Mise à jour de la valorisation de marque.
 
-## Nouvelles fonctionnalités
+## Version 1.1.0 - 5 octobre 2021
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Fonctionnalité </th>
-   <th colname="col2" class="entry"> Description </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Visualisation de débogage à distance </p> </td>
-   <td colname="col2"> <p> Organisez les événements de débogage à distance dans un diagramme de flux visuel dans la section SDK web Adobe Experience Platform &gt; Transactions Edge . En outre, vous devez demander à l’organisation IMS du SDK Web Adobe Experience Platform utilisée sur la page de correspondre à l’organisation connectée lors du démarrage d’une nouvelle session de débogage à distance. Filtrez les transactions de périphérie selon l’onglet connecté.</p> <p> <b>Remarque :</b> Les journaux de suivi de Target sont toujours disponibles dans la section Journaux &gt; Edge .</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Améliorations de la section de configuration du SDK Web Adobe Experience Platform </p> </td>
-   <td colname="col2"> <p> Autorisez le remplacement de la configuration de l’ID de flux de données distinct pour chaque instance de la page. Ajoutez le bouton bascule debug enabled .</p> </td>
-  </tr>
- </tbody>
-</table>
+* Visualisation du débogage à distance : Organisez les événements de débogage à distance dans un diagramme de flux visuel dans la section SDK web Adobe Experience Platform > Transactions Edge .
+* L’organisation IMS du SDK Web Adobe Experience Platform utilisée sur la page doit correspondre à l’organisation connectée lors du démarrage d’une nouvelle session de débogage à distance.
+* Affiche uniquement les transactions de périphérie pour l’onglet connecté.
 
-## Correctifs
-
+> **Remarque :** Les journaux de suivi de Target sont toujours disponibles dans la section Journaux > Edge .
+* Autorisez le remplacement de la configuration de l’ID de flux de données distinct pour chaque instance du SDK Web Adobe Experience Platform sur la page. Ajoutez le bouton bascule debug enabled .
 * Correction d’un problème en raison duquel le jeton de trace Adobe Target n’était pas toujours envoyé avec les sessions de débogage à distance pour le SDK Web de Adobe Experience Platform.
 
 ## Version 1.0.0 5 mai 2021
 
-## Nouvelles fonctionnalités
-
-<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> Fonctionnalité </th>
-   <th colname="col2" class="entry"> Description </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> Version initiale </p> </td>
-   <td colname="col2"> <p> Première version principale du débogueur Experience Platform. Destiné à remplacer l’Experience Cloud Debugger. </p> </td>
-  </tr>
- </tbody>
-</table>
+* Première version principale du débogueur Experience Platform. Destiné à remplacer l’Experience Cloud Debugger.
