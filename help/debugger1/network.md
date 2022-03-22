@@ -1,15 +1,15 @@
 ---
 description: Écran Informations réseau du Débogueur Experience Cloud
-keywords: debugger;extension experience cloud debugger;chrome;extension;réseau;informations
-seo-description: Écran Informations réseau du Débogueur Experience Cloud
-seo-title: Informations réseau
-title: Informations réseau
+keywords: debugger;extension experience cloud debugger;chrome;extension;réseau;informations
+seo-description: Experience Cloud Debugger Network Information screen
+seo-title: Network Information
+title: Experience Cloud Debugger d’informations réseau
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 Pour afficher les informations réseau, cliquez sur **[!UICONTROL Network]**.
 
-L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud effectués sur la page et les affiche de façon ordonnée de gauche à droite. Les paramètres standard sont automatiquement étiquetés avec des noms conviviaux et organisés pour regrouper des paramètres communs sur le même rôle.
+L’écran Réseau regroupe tous les appels de solution Adobe Experience Cloud effectués sur la page et les affiche de façon ordonnée de gauche à droite. Les paramètres standard sont automatiquement étiquetés avec des noms conviviaux et organisés pour regrouper des paramètres communs sur le même rôle.
 
 >[!TIP]
 >
->Cet écran est utile pour confirmer que les paramètres utilisés pour les intégrations, tels que l’identifiant visiteur Experience Cloud ou l’ID de données supplémentaire, sont cohérents entre les intégrations.
+>Cet écran est utile pour confirmer que les paramètres utilisés pour les intégrations, tels que l’identifiant visiteur Experience Cloud ou l’ID de données supplémentaire, sont cohérents entre les intégrations.
 
 >[!NOTE]
 >
->Actuellement, tous les paramètres transmis dans les appels de solution (par exemple, les variables contextuelles Analytics, les paramètres personnalisés Target ou les ID de client du service Experience Cloud ID) ne sont pas visibles dans l’écran Réseau.
+>Actuellement, tous les paramètres transmis dans les appels de solution (par exemple, les variables contextuelles Analytics, les paramètres personnalisés Target ou les ID de client du service Experience Cloud ID) ne sont pas visibles dans l’écran Réseau.
 
 Pour afficher toutes les informations, sélectionnez **[!UICONTROL All]**.
 

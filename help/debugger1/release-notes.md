@@ -1,15 +1,13 @@
 ---
 description: Notes de mise à jour du Débogueur Experience Cloud
-keywords: debugger;extension experience cloud debugger;chrome;extension;notes de mise à jour
-seo-description: Notes de mise à jour du Débogueur Experience Cloud
-seo-title: Notes de mise à jour
-title: Notes de mise à jour
+keywords: debugger;extension experience cloud debugger;chrome;extension;notes de mise à jour
+title: Experience Cloud Debugger des notes de mise à jour
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '727'
+ht-degree: 99%
 
 ---
 
@@ -53,7 +51,7 @@ ht-degree: 0%
    <td colname="col2"> <p> Ajout de <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">tests de Platform Auditor</a> à Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
+   <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
    <td colname="col2"> <p>Experience Cloud Debugger affiche désormais les réponses AAM </p> </td> 
   </tr> 
  </tbody> 
@@ -135,9 +133,9 @@ ht-degree: 0%
 
 ## Correctifs {#section-d9231f5c77254d0888347e5f569a8b1d}
 
-* Correction d’un problème en raison duquel l’onglet Experience Cloud n’était pas mis à jour.
+* Correction d’un problème en raison duquel l’onglet Experience Cloud n’était pas mis à jour.
 
-* Correction d’un problème en raison duquel « Media Optimizer » s’affichait dans la ligne Solution de l’onglet Réseau, plutôt que dans le nom « Advertising Cloud » actuel.
+* Correction d’un problème en raison duquel « Adobe Media Optimizer » s’affichait dans la ligne Solution de l’onglet Réseau, plutôt que dans le nom « Advertising Cloud » actuel.
 * Correction d’un problème en raison duquel Experience Cloud Debugger injectait _satellite sur chaque page.
 
 ## Version 0.0.803 10er août 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
@@ -173,7 +171,7 @@ La version 0.0.803 ne contient aucune modification à l’intention des clients
 
 ## Améliorations {#section-0e7090e3e6a645f085d4553b983ecff8}
 
-* Nom de Media Optimizer remplacé par Advertising Cloud.
+* Nom de Adobe Media Optimizer remplacé par Advertising Cloud
 * Suppression de solutions de l’onglet Réseau si elles sont introuvables.
 
 ## Correctifs {#section-7c0e4cc4b00a428489bed4a0a27c9501}

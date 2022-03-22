@@ -1,15 +1,15 @@
 ---
 description: Exécution du Débogueur Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension;récapitulatif;effacer;requêtes;écran récapitulatif;solution;informations;analytics;target;dtm;audience manager;launch;service d’identification
-seo-description: Exécution du Débogueur Experience Cloud
-seo-title: Écran récapitulatif
-title: Écran récapitulatif
+keywords: debugger;experience cloud debugger extension;chrome;extension;récapitulatif;effacer;requêtes;écran récapitulatif;solution;informations;analytics;target;dtm;audience manager;launch;service d’identification
+seo-description: Running Experience Cloud Debugger
+seo-title: Summary Screen
+title: Experience Cloud Debugger d’écran récapitulatif
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1066'
+ht-degree: 99%
 
 ---
 
@@ -23,11 +23,11 @@ L’écran récapitulatif d’Experience Cloud Debugger s’affiche.
 
 ![](assets/summary.jpg)
 
-Cet écran affiche une miniature de la page, ainsi que son URL et son titre. Il affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
+Cet écran affiche une miniature de la page, ainsi que son URL et son titre. Il affiche également des informations sur chaque solution Adobe Experience Cloud. Les informations affichées varient selon la solution, mais comprennent généralement des données telles que la bibliothèque et la version de la solution (par exemple, « AppMeasurement v2.9 ») et les identifiants de compte (tels que l’identifiant de suite de rapports Analytics, le code client Target, l’identifiant partenaire d’Audience Manager, etc.).
 
 Les numéros en bleu en regard des onglets dans la partie supérieure de la fenêtre indiquent le nombre d’appels au serveur qui ont été effectués. Vous pouvez les remettre à zéro en cliquant sur **[!UICONTROL Clear All Requests]** dans l’onglet correspondant.
 
-Par exemple, l’illustration suivante présente des informations sur Adobe Target. Pour exposer les détails de l’activité illustrés ci-dessous sans authentification, vous devez mettre en œuvre le récepteur d’événement de débogage dans votre gestionnaire de codes ou de balises et activer les [jetons de réponse](https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html) nécessaires dans l’interface utilisateur de Target.
+Par exemple, l’illustration suivante présente des informations sur Adobe Target. Pour exposer les détails de l’activité illustrés ci-dessous sans authentification, vous devez mettre en œuvre le récepteur d’événement de débogage dans votre gestionnaire de codes ou de balises et activer les [jetons de réponse](https://docs.adobe.com/content/help/fr-FR/target/using/administer/response-tokens.html) nécessaires dans l’interface utilisateur de Target.
 
 ![](assets/summary-target2.jpg)
 
@@ -80,7 +80,7 @@ Experience Cloud Debugger affiche les informations suivantes pour chaque solut
   </tr> 
   <tr> 
    <td colname="col1"> <p>Modules </p> </td> 
-   <td colname="col2"> <p>Modules chargés par Adobe Analytics. </p> </td> 
+   <td colname="col2"> <p>Modules chargés par Adobe Analytics. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -104,7 +104,7 @@ Experience Cloud Debugger affiche les informations suivantes pour chaque solut
  </tbody> 
 </table>
 
-**Adobe Experience Platform Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
@@ -173,7 +173,7 @@ Experience Cloud Debugger affiche les informations suivantes pour chaque solut
  </tbody> 
 </table>
 
-**Adobe Target**
+**Adobe Target**
 
 <table id="table_D30E0CD20FB04E41862B22655136E043"> 
  <tbody> 
