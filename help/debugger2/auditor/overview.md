@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: Onglet Auditor
 description: Découvrez comment utiliser l’onglet Auditor dans Adobe Experience Platform Debugger pour tester vos mises en oeuvre Adobe Experience Cloud.
 keywords: debugger;extension experience platform debugger;chrome;extension;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 36%
+source-wordcount: '358'
+ht-degree: 32%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
+# Onglet Auditor
 
 Dans Adobe Experience Platform Debugger, vous pouvez utiliser la variable **[!UICONTROL Auditor]** pour exécuter une série de tests d’audit sur votre page.
 

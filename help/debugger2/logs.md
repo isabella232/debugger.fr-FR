@@ -1,31 +1,27 @@
 ---
-description: Écran Journaux d’Experience Platform Debugger
+description: Découvrez comment utiliser l’onglet Journaux dans Adobe Experience Platform Debugger.
 keywords: debugger;extension Experience Platform Debugger;chrome;extension;journaux
-seo-description: Écran Journaux d’Experience Platform Debugger
-seo-title: Journaux
-title: Journaux
+seo-description: Experience Platform Debugger Logs screen
+seo-title: Logs
+title: Onglet Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 50%
 
 ---
 
-# Journaux{#logs}
+# Onglet Journaux
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
-
-L’écran Journaux fournit des informations spécifiques aux implémentations de DTM, Adobe Experience Platform Launch et du SDK web Adobe Experience Platform. Il n’est pas nécessaire d’activer l’outil de débogage de console pour DTM en vue d’afficher ces informations. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
+Le **Journaux** fournit des informations spécifiques aux balises et aux mises en oeuvre du SDK Web de Adobe Experience Platform. Vous pouvez filtrer par solutions mises en œuvre via leurs outils associés.
 
 ![](assets/logs.jpg)
 
-L’écran Journaux affiche les informations en quatre colonnes :
+L’onglet Journaux affiche les informations en quatre colonnes :
 
-**[!UICONTROL Solutions] :** affiche les icônes de la solution Experience Cloud affectée par l’élément journalisé. Placez le pointeur sur l’icône pour obtenir une description textuelle.
+**[!UICONTROL Solutions] :** affiche les icônes de la solution Experience Cloud affectée par l’élément journalisé. Placez le pointeur sur l’icône pour obtenir une description textuelle.
 
 **[!UICONTROL Occurred at] :** indique le moment où le problème journalisé s’est produit pendant la session.
 
@@ -38,6 +34,6 @@ L’écran Journaux affiche les informations en quatre colonnes :
 
 **[!UICONTROL Log message] :** décrit le problème.
 
-Certains messages du journal disposent d’une option Afficher le code. Cliquez sur **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
+Certains messages du journal disposent d’une option Afficher le code. Sélectionner **[!UICONTROL Show Code]** pour afficher le code conditionnel qui détermine si une règle doit se déclencher.
 
-Pour effacer le journal, cliquez sur **[!UICONTROL Remove Logs]**.
+Pour effacer le journal, sélectionnez **[!UICONTROL Remove Logs]**.

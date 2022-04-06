@@ -1,32 +1,28 @@
 ---
-description: Écran Événements d'Experience Platform Debugger
+description: Découvrez comment utiliser l’onglet Événements dans Adobe Experience Platform Debugger.
 keywords: debugger;extension experience platform debugger;chrome;extension;événements;dtm;target
-seo-description: Écran Événements d'Experience Platform Debugger
-seo-title: Événements
-title: Événements
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: Onglet Événements
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 42%
 
 ---
 
-# Événements{#events}
+# Onglet Événements
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
-
-L’écran Événements fournit une vue graphique des événements qui se produisent, avec un affichage chronologique.
+Le **Événements** fournit une vue graphique des événements qui se produisent, affichés sur une chronologie.
 
 ![](assets/events.jpg)
 
-Pour chaque événement, l’icône correspondant à la solution concernée apparaît sur la chronologie. Les icônes montrent également les modifications apportées à la couche de données (si l’option est activée). Passez la souris sur une icône pour obtenir un résumé de l’événement. Cliquez sur l’événement pour plus d’informations. Vous pouvez cliquer en maintenant la touche Maj ou Ctrl enfoncée pour afficher plusieurs événements.
+Pour chaque événement, l’icône correspondant à la solution concernée apparaît sur la chronologie. Les icônes montrent également les modifications apportées à la couche de données (si l’option est activée). Passez la souris sur une icône pour obtenir un résumé de l’événement. Pour plus d’informations, cliquez sur l’événement . Vous pouvez faire une sélection en maintenant la touche Maj ou Ctrl enfoncée pour afficher plusieurs événements.
 
 ![](assets/events-details.jpg)
 
-Cliquez sur un détail pour en savoir plus.
+Pour plus d’informations, sélectionnez dans le détail.
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ Cliquez sur un détail pour en savoir plus.
 
 Pour activer le suivi des modifications apportées à la couche de données dans la chronologie :
 
-1. Cliquez sur l’icône en forme d’engrenage en haut à droite.
+1. Sélectionnez l’icône en forme d’engrenage en haut à droite.
 1. Entrez le nom de la couche de données.
 
    ![](assets/event-datalayer.jpg)
 
-1. Cliquez sur **[!UICONTROL Save]**.
+1. Sélectionner **[!UICONTROL Save]**.
 
-Les détails des modifications apportées à la couche de données indiquent tout élément qui a été supprimé ou ajouté. Vous pouvez cliquer sur **{}** pour analyser plus en détail la couche de données.
+Les détails des modifications apportées à la couche de données indiquent tout élément qui a été supprimé ou ajouté. Vous pouvez sélectionner **{}** pour approfondir l’analyse de la couche de données.
 
 ## Téléchargement des informations sur l’événement
 
-Cliquez sur **[!UICONTROL Download]** pour télécharger un fichier Excel contenant des informations sur les appels de pages.
+Sélectionner **[!UICONTROL Download]** pour télécharger un fichier Excel contenant des informations sur les appels de page.

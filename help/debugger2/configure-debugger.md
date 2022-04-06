@@ -1,24 +1,20 @@
 ---
-description: Configuration d’Experience Platform Debugger
+description: Configuration d'Experience Platform Debugger
 keywords: debugger;extension experience platform debugger;chrome;extension;configurer
-seo-description: Configuration d’Experience Platform Debugger
-seo-title: Configurer Experience Platform Debugger
+seo-description: How to configure Experience Platform Debugger
+seo-title: Configure Experience Platform Debugger
 title: Configurer Experience Platform Debugger
 exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 62%
 
 ---
 
-# Configurer Debugger
+# Configuration de Platform Debugger
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger est actuellement en version bêta. La documentation et les fonctionnalités peuvent changer.
-
-Vous pouvez configurer certains aspects de l’apparence et du fonctionnement d’Experience Platform Debugger.
+Vous pouvez configurer certains aspects de l’apparence et du fonctionnement de Adobe Experience Platform Debugger.
 
 ![](assets/settings.jpg)
 
@@ -28,11 +24,11 @@ Une fois Platform Debugger ouvert, vous pouvez sélectionner l’apparence souh
 
 ## Réinitialiser
 
-Cliquez sur **[!UICONTROL Reset all Data and Settings]** pour revenir à l’effacement de toutes les données et aux paramètres par défaut.
+Sélectionner **[!UICONTROL Reset all Data and Settings]** pour revenir à l’effacement de toutes les données et aux paramètres par défaut.
 
 ## Verrouiller Experience Platform Debugger sur une page
 
-Lorsque vous modifiez une page de votre site, la fenêtre d’Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller Experience Platform Debugger sur une page, cliquez sur **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Platform Debugger.
+Lorsque vous modifiez une page de votre site, la fenêtre d&#39;Experience Platform Debugger se met à jour pour afficher les informations relatives à cette page. Le nom de la page à laquelle vous êtes connecté s’affiche au bas de l’écran. Pour verrouiller Experience Platform Debugger sur une page, sélectionnez **[!UICONTROL Lock]** dans le coin inférieur droit de la fenêtre Platform Debugger.
 
 ![](assets/lock.jpg)
 
