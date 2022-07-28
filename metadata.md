@@ -1,20 +1,19 @@
 ---
 cloud: Experience Platform
 type: Documentation
-solution-title: Formation et assistance
-solution-hub-url: https://helpx.adobe.com/fr/support/experience-cloud/core-services.html
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
-getting-started-title: Prise en main
-getting-started-url: https://helpx.adobe.com/fr/experience-cloud-core-services/get-started.html
-tutorials-title: Tutoriels
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/analytics/how-to/adobe-launch-publishing-process.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.fr-FR
+git-repo: https://github.com/AdobeDocs/debugger.fr-FR
 index: true
-translation-type: ht
 source-git-commit: c90784acea22a3c39ff13bffcd280d5fb2c70e88
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
