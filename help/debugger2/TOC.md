@@ -10,8 +10,8 @@ breadcrumb-title: Guide de Platform Debugger
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 100%
 
 ---
 
@@ -30,6 +30,6 @@ ht-degree: 0%
 * Auditor {#auditor}
    * [Présentation](./auditor/overview.md)
    * [Tests de cohérence des balises](./auditor/tag-consistency.md)
-   * [Balisage des tests de présence](./auditor/tag-presence.md)
+   * [Tests de présence de balises](./auditor/tag-presence.md)
    * [Tests de configuration](./auditor/configuration.md)
    * [Tests d’alerte](./auditor/alerts.md)

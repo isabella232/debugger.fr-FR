@@ -8,7 +8,7 @@ exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 42%
+ht-degree: 43%
 
 ---
 
@@ -35,7 +35,7 @@ Pour activer le suivi des modifications apportées à la couche de données dans
 
    ![](assets/event-datalayer.jpg)
 
-1. Sélectionner **[!UICONTROL Save]**.
+1. Sélectionnez **[!UICONTROL Save]**.
 
 Les détails des modifications apportées à la couche de données indiquent tout élément qui a été supprimé ou ajouté. Vous pouvez sélectionner **{}** pour approfondir l’analyse de la couche de données.
 

@@ -9,7 +9,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Extension Adobe Experience Platform Debugger pour [Chrome](https://chrome.google
 
 Vous pouvez utiliser Platform Debugger avec les autres solutions d’activation d’Adobe pour effectuer les opérations suivantes :
 
-1. Utilisation [tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr) dans l’interface utilisateur de la collecte de données pour insérer du code qui active [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) produits sur vos pages.
+1. Utilisation [tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr) dans l’interface utilisateur de la collecte de données pour insérer du code qui active [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=fr) produits sur vos pages.
 1. Utilisez la variable [**[!UICONTROL Auditor]**tab](./auditor/overview.md) dans Platform Debugger pour tester vos mises en oeuvre.
 1. Utilisez des outils basés sur un événement et spécifiques à une solution dans Platform Debugger pour déboguer les problèmes détectés par Auditor ou pour examiner d’autres informations sur vos mises en oeuvre.
 
@@ -29,7 +29,7 @@ Vous pouvez utiliser Platform Debugger avec les autres solutions d’activation 
 
 Vous pouvez exécuter Platform Debugger sur n’importe quelle page web et l’extension aura accès aux données publiques. Pour accéder aux données non publiques à l’aide de l’extension, vous devez être authentifié dans Experience Cloud dans un onglet de navigateur ouvert.
 
-## Cas dʼutilisation {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## Cas d’utilisation {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Vous pouvez utiliser les informations collectées par Platform Debugger pour mieux comprendre comment vos solutions Experience Cloud sont mises en oeuvre. Par exemple :
 

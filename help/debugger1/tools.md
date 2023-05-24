@@ -1,15 +1,15 @@
 ---
 description: Écran Outils du Débogueur Experience Cloud
-keywords: debugger;extension experience cloud debugger;chrome;extension;outils;dtm;target
-seo-description: Écran Outils du Débogueur Experience Cloud
-seo-title: Outils
+keywords: debugger;extension experience cloud debugger;chrome;extension;outils;dtm;target
+seo-description: Experience Cloud Debugger Tools screen
+seo-title: Tools
 title: Outils
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 100%
 
 ---
 
@@ -64,15 +64,15 @@ Vous pouvez effectuer une insertion dynamique d’Adobe Experience Platform L
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Journalisation de la console Target </p> </td> 
-   <td colname="col2"> <p>Cet outil présente les instructions de débogage spécifiques à Target dans la console du navigateur, commençant toutes par <span class="codeph"> AT :</span> en ajoutant un cookie appelé <span class="codeph"> mboxDebug=true</span> à votre navigateur. Actuellement, les instructions de la console n’apparaissent pas dans l’écran Journaux de Debugger, mais elles sont visibles dans la console de débogage native du navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version d’at.js, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDebug=true</span> à votre URL afin d’activer la journalisation de la console. Si vous utilisez mbox.js, vous pouvez ajouter le paramètre <span class="codeph"> ?_AT_Debug=console</span> pour activer la journalisation de la console limitée aux activités du compositeur d’expérience visuelle. </p> </td> 
+   <td colname="col2"> <p>Cet outil présente les instructions de débogage spécifiques à Target dans la console du navigateur, commençant toutes par <span class="codeph"> AT :</span> en ajoutant un cookie appelé <span class="codeph"> mboxDebug=true</span> à votre navigateur. Actuellement, les instructions de la console n’apparaissent pas dans l’écran Journaux de Debugger, mais elles sont visibles dans la console de débogage native du navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version d’at.js, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDebug=true</span> à votre URL afin d’activer la journalisation de la console. Si vous utilisez mbox.js, vous pouvez ajouter le paramètre <span class="codeph"> ?_AT_Debug=console</span> pour activer la journalisation de la console limitée aux activités du compositeur d’expérience visuelle. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Activer mbox Traces </p> </td> 
-   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mbox Trace</span> de Debugger. </p> <p> Vous devez être connecté à Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
+   <td colname="col2"> <p>Cet outil ajoute des informations détaillées aux réponses Target, qui peuvent être explorées dans l’écran <span class="uicontrol"> Target&gt; mbox Trace</span> de Debugger. </p> <p> Vous devez être connecté à Experience Cloud dans l’un de vos onglets Chrome pour activer cet outil. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Désactiver Target </p> </td> 
-   <td colname="col2"> <p>Cet outil désactive toutes les requêtes Target en ajoutant un cookie appelé <span class="codeph"> mboxDisable=true</span> à votre navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDisable=true</span> à votre URL pour désactiver les mbox. </p> </td> 
+   <td colname="col2"> <p>Cet outil désactive toutes les requêtes Target en ajoutant un cookie appelé <span class="codeph"> mboxDisable=true</span> à votre navigateur. </p> <p> Cet outil exige at.js 0.9.6+. Si vous utilisez une ancienne version, vous pouvez ajouter le paramètre de chaîne de requête <span class="codeph"> ?mboxDisable=true</span> à votre URL pour désactiver les mbox. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mise en surbrillance de mbox </p> </td> 
@@ -81,6 +81,6 @@ Vous pouvez effectuer une insertion dynamique d’Adobe Experience Platform L
  </tbody> 
 </table>
 
-La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
+La vidéo suivante explique comment utiliser l’extension Debugger avec Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23115t2/)

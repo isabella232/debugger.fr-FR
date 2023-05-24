@@ -6,18 +6,18 @@ exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 32%
+ht-degree: 35%
 
 ---
 
-# Onglet Auditor
+# Onglet Auditeur
 
 Dans Adobe Experience Platform Debugger, vous pouvez utiliser la variable **[!UICONTROL Auditor]** pour exécuter une série de tests d’audit sur votre page.
 
-Pour utiliser cette fonctionnalité :
+Pour utiliser cette fonctionnalité :
 
-1. Sélectionner **[!UICONTROL Auditor]** dans le volet de navigation de gauche.
-1. Sélectionner **[!UICONTROL Run Auditor Tests]**. Une fois les tests terminés, leurs résultats apparaissent ci-dessous.
+1. Sélectionnez **[!UICONTROL Auditor]** dans le volet de navigation de gauche.
+1. Sélectionnez **[!UICONTROL Run Auditor Tests]**. Une fois les tests terminés, leurs résultats apparaissent ci-dessous.
 
 ![Capture d’écran des résultats du test sur l’onglet Auditor](../assets/auditor-results.png)
 
